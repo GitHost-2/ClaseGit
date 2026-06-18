@@ -1,0 +1,1000 @@
+192.168.1.191 - developer [18/Jun/2026:11:46:19 -0600] "POST /dashboard HTTP/1.1" 200 OK 937
+192.168.1.123 - test_user [18/Jun/2026:11:49:22 -0600] "POST /js/main.js HTTP/1.1" 200 OK 2500
+192.168.1.225 - root [18/Jun/2026:11:13:20 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 853
+192.168.1.250 - manager [18/Jun/2026:11:42:43 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 2121
+192.168.1.223 - sysadmin [18/Jun/2026:11:17:58 -0600] "GET /index.html HTTP/1.1" 200 OK 2098
+192.168.1.94 - sysadmin [18/Jun/2026:11:58:36 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 4881
+192.168.1.242 - test_user [18/Jun/2026:11:31:28 -0600] "PUT /js/main.js HTTP/1.1" 403 Forbidden 2264
+192.168.1.207 - api_service [18/Jun/2026:11:53:27 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4073
+192.168.1.74 - root [18/Jun/2026:11:47:25 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 2675
+192.168.1.186 - root [18/Jun/2026:11:29:46 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 437
+192.168.1.101 - api_service [18/Jun/2026:11:17:34 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 4390
+192.168.1.147 - admin [18/Jun/2026:11:27:30 -0600] "DELETE /css/style.css HTTP/1.1" 500 Internal Server Error 2572
+192.168.1.204 - sysadmin [18/Jun/2026:11:47:18 -0600] "PUT /settings HTTP/1.1" 200 OK 2925
+192.168.1.59 - test_user [18/Jun/2026:11:35:11 -0600] "GET /js/main.js HTTP/1.1" 200 OK 3431
+192.168.1.67 - user123 [18/Jun/2026:11:59:17 -0600] "DELETE /logout HTTP/1.1" 200 OK 4478
+192.168.1.149 - user123 [18/Jun/2026:11:53:14 -0600] "POST /css/style.css HTTP/1.1" 200 OK 414
+192.168.1.202 - manager [18/Jun/2026:11:45:43 -0600] "GET /index.html HTTP/1.1" 200 OK 164
+192.168.1.128 - sysadmin [18/Jun/2026:11:52:48 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 2035
+192.168.1.220 - guest [18/Jun/2026:11:34:11 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 2713
+192.168.1.235 - test_user [18/Jun/2026:11:45:51 -0600] "PUT /index.html HTTP/1.1" 200 OK 3162
+192.168.1.126 - admin [18/Jun/2026:11:49:19 -0600] "DELETE /settings HTTP/1.1" 200 OK 249
+192.168.1.21 - guest [18/Jun/2026:11:36:15 -0600] "DELETE /api/v1/auth HTTP/1.1" 500 Internal Server Error 3324
+192.168.1.184 - user123 [18/Jun/2026:11:53:34 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 1883
+192.168.1.234 - user123 [18/Jun/2026:11:42:39 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4107
+192.168.1.74 - api_service [18/Jun/2026:11:53:11 -0600] "GET /dashboard HTTP/1.1" 200 OK 740
+192.168.1.182 - root [18/Jun/2026:11:43:14 -0600] "DELETE /api/v1/auth HTTP/1.1" 401 Unauthorized 2130
+192.168.1.105 - guest [18/Jun/2026:11:29:16 -0600] "POST /api/v1/auth HTTP/1.1" 404 Not Found 746
+192.168.1.152 - guest [18/Jun/2026:11:37:44 -0600] "POST /settings HTTP/1.1" 200 OK 774
+192.168.1.97 - developer [18/Jun/2026:11:19:25 -0600] "DELETE /logout HTTP/1.1" 200 OK 1417
+192.168.1.155 - developer [18/Jun/2026:11:32:38 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 707
+192.168.1.186 - guest [18/Jun/2026:11:46:32 -0600] "DELETE /index.html HTTP/1.1" 404 Not Found 4349
+192.168.1.38 - api_service [18/Jun/2026:11:19:42 -0600] "GET /dashboard HTTP/1.1" 404 Not Found 2937
+192.168.1.227 - api_service [18/Jun/2026:11:31:25 -0600] "POST /settings HTTP/1.1" 200 OK 2405
+192.168.1.127 - user123 [18/Jun/2026:11:40:19 -0600] "POST /images/logo.png HTTP/1.1" 404 Not Found 980
+192.168.1.60 - guest [18/Jun/2026:11:43:19 -0600] "GET /settings HTTP/1.1" 200 OK 2116
+192.168.1.202 - user123 [18/Jun/2026:11:54:36 -0600] "GET /dashboard HTTP/1.1" 200 OK 103
+192.168.1.30 - test_user [18/Jun/2026:11:44:44 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4489
+192.168.1.146 - manager [18/Jun/2026:11:44:28 -0600] "PUT /js/main.js HTTP/1.1" 404 Not Found 4936
+192.168.1.90 - developer [18/Jun/2026:11:35:33 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1140
+192.168.1.195 - test_user [18/Jun/2026:11:21:14 -0600] "POST /css/style.css HTTP/1.1" 500 Internal Server Error 2161
+192.168.1.167 - user123 [18/Jun/2026:11:21:11 -0600] "GET /dashboard HTTP/1.1" 200 OK 4955
+192.168.1.67 - test_user [18/Jun/2026:11:41:11 -0600] "POST /js/main.js HTTP/1.1" 401 Unauthorized 1466
+192.168.1.168 - sysadmin [18/Jun/2026:11:31:57 -0600] "POST /dashboard HTTP/1.1" 200 OK 2948
+192.168.1.70 - test_user [18/Jun/2026:11:59:11 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1693
+192.168.1.58 - developer [18/Jun/2026:11:22:41 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 4311
+192.168.1.197 - admin [18/Jun/2026:11:46:46 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4871
+192.168.1.145 - manager [18/Jun/2026:11:56:21 -0600] "GET /css/style.css HTTP/1.1" 200 OK 2095
+192.168.1.90 - admin [18/Jun/2026:11:19:27 -0600] "POST /logout HTTP/1.1" 200 OK 2280
+192.168.1.126 - api_service [18/Jun/2026:11:23:26 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 1896
+192.168.1.13 - developer [18/Jun/2026:11:34:52 -0600] "DELETE /settings HTTP/1.1" 200 OK 2191
+192.168.1.250 - manager [18/Jun/2026:11:29:10 -0600] "GET /logout HTTP/1.1" 401 Unauthorized 1194
+192.168.1.48 - sysadmin [18/Jun/2026:11:17:27 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 1138
+192.168.1.92 - developer [18/Jun/2026:11:58:54 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 159
+192.168.1.136 - operator [18/Jun/2026:11:12:33 -0600] "GET /js/main.js HTTP/1.1" 200 OK 921
+192.168.1.227 - operator [18/Jun/2026:11:44:19 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 3039
+192.168.1.132 - root [18/Jun/2026:11:45:14 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 4519
+192.168.1.223 - guest [18/Jun/2026:11:53:36 -0600] "PUT /settings HTTP/1.1" 200 OK 2298
+192.168.1.195 - sysadmin [18/Jun/2026:11:47:26 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3125
+192.168.1.147 - operator [18/Jun/2026:11:57:39 -0600] "POST /logout HTTP/1.1" 200 OK 4298
+192.168.1.146 - manager [18/Jun/2026:11:50:28 -0600] "GET /js/main.js HTTP/1.1" 500 Internal Server Error 2117
+192.168.1.102 - sysadmin [18/Jun/2026:11:55:31 -0600] "GET /settings HTTP/1.1" 200 OK 731
+192.168.1.205 - operator [18/Jun/2026:11:17:46 -0600] "GET /index.html HTTP/1.1" 200 OK 1681
+192.168.1.138 - sysadmin [18/Jun/2026:11:49:24 -0600] "PUT /dashboard HTTP/1.1" 404 Not Found 1380
+192.168.1.28 - api_service [18/Jun/2026:11:35:53 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3334
+192.168.1.226 - api_service [18/Jun/2026:11:55:27 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 859
+192.168.1.175 - developer [18/Jun/2026:11:48:37 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 4134
+192.168.1.189 - admin [18/Jun/2026:11:48:11 -0600] "DELETE /api/v1/auth HTTP/1.1" 403 Forbidden 3216
+192.168.1.44 - user123 [18/Jun/2026:11:59:18 -0600] "GET /css/style.css HTTP/1.1" 401 Unauthorized 3980
+192.168.1.240 - api_service [18/Jun/2026:11:10:39 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4617
+192.168.1.104 - user123 [18/Jun/2026:11:47:44 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4237
+192.168.1.217 - sysadmin [18/Jun/2026:11:17:34 -0600] "PUT /settings HTTP/1.1" 401 Unauthorized 3746
+192.168.1.78 - manager [18/Jun/2026:11:32:17 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 4575
+192.168.1.240 - manager [18/Jun/2026:11:38:51 -0600] "POST /logout HTTP/1.1" 200 OK 2918
+192.168.1.241 - root [18/Jun/2026:11:49:21 -0600] "DELETE /logout HTTP/1.1" 200 OK 4538
+192.168.1.129 - api_service [18/Jun/2026:11:13:26 -0600] "GET /settings HTTP/1.1" 200 OK 4912
+192.168.1.240 - operator [18/Jun/2026:11:53:46 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4677
+192.168.1.203 - operator [18/Jun/2026:11:54:38 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 1345
+192.168.1.172 - api_service [18/Jun/2026:11:15:57 -0600] "PUT /api/v2/data HTTP/1.1" 403 Forbidden 2321
+192.168.1.124 - developer [18/Jun/2026:11:41:52 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4358
+192.168.1.36 - sysadmin [18/Jun/2026:11:15:39 -0600] "GET /dashboard HTTP/1.1" 200 OK 4042
+192.168.1.91 - manager [18/Jun/2026:11:24:24 -0600] "DELETE /settings HTTP/1.1" 500 Internal Server Error 2250
+192.168.1.150 - developer [18/Jun/2026:11:46:35 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 2886
+192.168.1.138 - test_user [18/Jun/2026:11:37:26 -0600] "POST /settings HTTP/1.1" 200 OK 1532
+192.168.1.56 - root [18/Jun/2026:11:44:15 -0600] "DELETE /logout HTTP/1.1" 200 OK 1862
+192.168.1.109 - developer [18/Jun/2026:11:22:49 -0600] "POST /dashboard HTTP/1.1" 200 OK 4850
+192.168.1.220 - user123 [18/Jun/2026:11:17:14 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 1878
+192.168.1.226 - sysadmin [18/Jun/2026:11:49:28 -0600] "POST /css/style.css HTTP/1.1" 404 Not Found 1687
+192.168.1.184 - root [18/Jun/2026:11:48:56 -0600] "POST /api/v1/auth HTTP/1.1" 401 Unauthorized 4666
+192.168.1.227 - guest [18/Jun/2026:11:52:34 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 928
+192.168.1.42 - admin [18/Jun/2026:11:44:43 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 2546
+192.168.1.157 - sysadmin [18/Jun/2026:11:56:28 -0600] "PUT /js/main.js HTTP/1.1" 500 Internal Server Error 482
+192.168.1.78 - operator [18/Jun/2026:11:21:38 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 2776
+192.168.1.169 - api_service [18/Jun/2026:11:29:17 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 1859
+192.168.1.202 - guest [18/Jun/2026:11:52:49 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 4187
+192.168.1.38 - test_user [18/Jun/2026:11:26:38 -0600] "DELETE /index.html HTTP/1.1" 200 OK 2853
+192.168.1.180 - manager [18/Jun/2026:11:13:10 -0600] "DELETE /settings HTTP/1.1" 200 OK 4655
+192.168.1.209 - api_service [18/Jun/2026:11:31:50 -0600] "POST /settings HTTP/1.1" 200 OK 3441
+192.168.1.243 - user123 [18/Jun/2026:11:55:29 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 236
+192.168.1.102 - guest [18/Jun/2026:11:10:58 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 247
+192.168.1.75 - developer [18/Jun/2026:11:11:52 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3882
+192.168.1.194 - developer [18/Jun/2026:11:59:25 -0600] "GET /index.html HTTP/1.1" 200 OK 1838
+192.168.1.252 - admin [18/Jun/2026:11:27:13 -0600] "POST /index.html HTTP/1.1" 401 Unauthorized 471
+192.168.1.226 - root [18/Jun/2026:11:17:18 -0600] "POST /index.html HTTP/1.1" 500 Internal Server Error 1322
+192.168.1.32 - developer [18/Jun/2026:11:58:39 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3651
+192.168.1.227 - user123 [18/Jun/2026:11:38:48 -0600] "GET /css/style.css HTTP/1.1" 200 OK 4794
+192.168.1.46 - manager [18/Jun/2026:11:57:30 -0600] "DELETE /settings HTTP/1.1" 200 OK 4231
+192.168.1.141 - user123 [18/Jun/2026:11:58:32 -0600] "GET /settings HTTP/1.1" 500 Internal Server Error 3544
+192.168.1.182 - guest [18/Jun/2026:11:13:35 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 3557
+192.168.1.79 - root [18/Jun/2026:11:34:22 -0600] "DELETE /settings HTTP/1.1" 200 OK 1256
+192.168.1.197 - root [18/Jun/2026:11:11:51 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2209
+192.168.1.239 - guest [18/Jun/2026:11:15:33 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 4389
+192.168.1.63 - operator [18/Jun/2026:11:29:56 -0600] "DELETE /logout HTTP/1.1" 200 OK 597
+192.168.1.40 - test_user [18/Jun/2026:11:58:51 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3595
+192.168.1.51 - operator [18/Jun/2026:11:27:20 -0600] "POST /images/logo.png HTTP/1.1" 403 Forbidden 2866
+192.168.1.18 - operator [18/Jun/2026:11:21:10 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4209
+192.168.1.249 - admin [18/Jun/2026:11:50:24 -0600] "POST /api/v2/data HTTP/1.1" 500 Internal Server Error 1684
+192.168.1.79 - developer [18/Jun/2026:11:57:42 -0600] "DELETE /dashboard HTTP/1.1" 403 Forbidden 1833
+192.168.1.39 - sysadmin [18/Jun/2026:11:38:13 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 623
+192.168.1.208 - operator [18/Jun/2026:11:48:40 -0600] "DELETE /images/logo.png HTTP/1.1" 401 Unauthorized 1783
+192.168.1.102 - manager [18/Jun/2026:11:14:32 -0600] "DELETE /dashboard HTTP/1.1" 403 Forbidden 4590
+192.168.1.41 - developer [18/Jun/2026:11:29:29 -0600] "POST /images/logo.png HTTP/1.1" 500 Internal Server Error 810
+192.168.1.96 - root [18/Jun/2026:11:20:29 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1678
+192.168.1.140 - root [18/Jun/2026:11:26:53 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 2969
+192.168.1.121 - guest [18/Jun/2026:11:15:24 -0600] "GET /dashboard HTTP/1.1" 200 OK 4709
+192.168.1.137 - sysadmin [18/Jun/2026:11:37:38 -0600] "DELETE /logout HTTP/1.1" 200 OK 470
+192.168.1.21 - user123 [18/Jun/2026:11:46:16 -0600] "DELETE /api/v2/data HTTP/1.1" 404 Not Found 2968
+192.168.1.246 - root [18/Jun/2026:11:27:16 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 3089
+192.168.1.74 - user123 [18/Jun/2026:11:42:51 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4833
+192.168.1.34 - root [18/Jun/2026:11:38:30 -0600] "GET /logout HTTP/1.1" 200 OK 663
+192.168.1.18 - developer [18/Jun/2026:11:48:51 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 608
+192.168.1.11 - sysadmin [18/Jun/2026:11:31:16 -0600] "GET /index.html HTTP/1.1" 200 OK 2359
+192.168.1.205 - test_user [18/Jun/2026:11:28:36 -0600] "POST /js/main.js HTTP/1.1" 404 Not Found 4026
+192.168.1.31 - user123 [18/Jun/2026:11:16:31 -0600] "POST /images/logo.png HTTP/1.1" 403 Forbidden 1167
+192.168.1.135 - root [18/Jun/2026:11:50:27 -0600] "PUT /dashboard HTTP/1.1" 200 OK 891
+192.168.1.99 - root [18/Jun/2026:11:58:37 -0600] "POST /css/style.css HTTP/1.1" 200 OK 2882
+192.168.1.136 - admin [18/Jun/2026:11:40:31 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 2856
+192.168.1.101 - sysadmin [18/Jun/2026:11:20:36 -0600] "DELETE /logout HTTP/1.1" 500 Internal Server Error 3861
+192.168.1.15 - operator [18/Jun/2026:11:23:59 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 837
+192.168.1.27 - sysadmin [18/Jun/2026:11:30:10 -0600] "PUT /logout HTTP/1.1" 401 Unauthorized 1799
+192.168.1.105 - developer [18/Jun/2026:11:47:26 -0600] "PUT /index.html HTTP/1.1" 200 OK 4380
+192.168.1.22 - manager [18/Jun/2026:11:58:42 -0600] "POST /dashboard HTTP/1.1" 200 OK 3490
+192.168.1.212 - sysadmin [18/Jun/2026:11:48:18 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 4894
+192.168.1.249 - manager [18/Jun/2026:11:54:56 -0600] "PUT /js/main.js HTTP/1.1" 403 Forbidden 4774
+192.168.1.64 - guest [18/Jun/2026:11:38:22 -0600] "GET /api/v1/auth HTTP/1.1" 401 Unauthorized 4687
+192.168.1.50 - manager [18/Jun/2026:11:46:42 -0600] "POST /dashboard HTTP/1.1" 401 Unauthorized 4660
+192.168.1.167 - api_service [18/Jun/2026:11:33:22 -0600] "GET /settings HTTP/1.1" 200 OK 1860
+192.168.1.87 - admin [18/Jun/2026:11:14:25 -0600] "GET /js/main.js HTTP/1.1" 200 OK 3005
+192.168.1.21 - api_service [18/Jun/2026:11:27:29 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3169
+192.168.1.23 - developer [18/Jun/2026:11:50:31 -0600] "POST /settings HTTP/1.1" 401 Unauthorized 2197
+192.168.1.18 - developer [18/Jun/2026:11:54:13 -0600] "GET /index.html HTTP/1.1" 200 OK 1772
+192.168.1.178 - operator [18/Jun/2026:11:56:22 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 171
+192.168.1.40 - operator [18/Jun/2026:11:44:38 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 1791
+192.168.1.94 - root [18/Jun/2026:11:57:59 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1402
+192.168.1.210 - sysadmin [18/Jun/2026:11:40:21 -0600] "GET /css/style.css HTTP/1.1" 404 Not Found 2163
+192.168.1.14 - developer [18/Jun/2026:11:26:21 -0600] "PUT /images/logo.png HTTP/1.1" 500 Internal Server Error 502
+192.168.1.112 - api_service [18/Jun/2026:11:13:10 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 3524
+192.168.1.182 - admin [18/Jun/2026:11:36:29 -0600] "POST /logout HTTP/1.1" 200 OK 1479
+192.168.1.181 - root [18/Jun/2026:11:52:51 -0600] "PUT /index.html HTTP/1.1" 403 Forbidden 3524
+192.168.1.133 - admin [18/Jun/2026:11:54:33 -0600] "GET /dashboard HTTP/1.1" 200 OK 4944
+192.168.1.97 - guest [18/Jun/2026:11:19:47 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 4952
+192.168.1.113 - test_user [18/Jun/2026:11:39:47 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4578
+192.168.1.124 - sysadmin [18/Jun/2026:11:36:55 -0600] "POST /logout HTTP/1.1" 200 OK 302
+192.168.1.61 - guest [18/Jun/2026:11:46:42 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 171
+192.168.1.158 - developer [18/Jun/2026:11:17:36 -0600] "PUT /dashboard HTTP/1.1" 200 OK 1540
+192.168.1.192 - manager [18/Jun/2026:11:25:23 -0600] "PUT /logout HTTP/1.1" 200 OK 1573
+192.168.1.59 - operator [18/Jun/2026:11:57:30 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 377
+192.168.1.87 - manager [18/Jun/2026:11:51:20 -0600] "PUT /css/style.css HTTP/1.1" 404 Not Found 207
+192.168.1.60 - manager [18/Jun/2026:11:43:22 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 4117
+192.168.1.233 - operator [18/Jun/2026:11:44:43 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2318
+192.168.1.203 - root [18/Jun/2026:11:56:30 -0600] "POST /settings HTTP/1.1" 200 OK 4498
+192.168.1.91 - api_service [18/Jun/2026:11:34:18 -0600] "GET /api/v2/data HTTP/1.1" 403 Forbidden 3929
+192.168.1.220 - sysadmin [18/Jun/2026:11:41:30 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3797
+192.168.1.148 - guest [18/Jun/2026:11:40:13 -0600] "DELETE /settings HTTP/1.1" 200 OK 4485
+192.168.1.154 - sysadmin [18/Jun/2026:11:44:12 -0600] "PUT /settings HTTP/1.1" 200 OK 858
+192.168.1.22 - manager [18/Jun/2026:11:38:43 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3402
+192.168.1.104 - manager [18/Jun/2026:11:46:42 -0600] "PUT /css/style.css HTTP/1.1" 404 Not Found 3110
+192.168.1.52 - operator [18/Jun/2026:11:53:33 -0600] "POST /index.html HTTP/1.1" 200 OK 2307
+192.168.1.148 - guest [18/Jun/2026:11:35:36 -0600] "POST /dashboard HTTP/1.1" 200 OK 830
+192.168.1.10 - admin [18/Jun/2026:11:58:10 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 148
+192.168.1.124 - api_service [18/Jun/2026:11:32:16 -0600] "PUT /css/style.css HTTP/1.1" 404 Not Found 2929
+192.168.1.84 - admin [18/Jun/2026:11:30:59 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 746
+192.168.1.22 - admin [18/Jun/2026:11:34:10 -0600] "PUT /dashboard HTTP/1.1" 200 OK 1861
+192.168.1.253 - root [18/Jun/2026:11:31:52 -0600] "GET /dashboard HTTP/1.1" 403 Forbidden 3902
+192.168.1.218 - admin [18/Jun/2026:11:51:46 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 4100
+192.168.1.176 - user123 [18/Jun/2026:11:14:55 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 4093
+192.168.1.216 - guest [18/Jun/2026:11:51:30 -0600] "GET /css/style.css HTTP/1.1" 403 Forbidden 2563
+192.168.1.207 - developer [18/Jun/2026:11:26:19 -0600] "GET /settings HTTP/1.1" 200 OK 4934
+192.168.1.189 - developer [18/Jun/2026:11:42:30 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 846
+192.168.1.131 - operator [18/Jun/2026:11:13:27 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2704
+192.168.1.152 - admin [18/Jun/2026:11:52:51 -0600] "GET /index.html HTTP/1.1" 403 Forbidden 4957
+192.168.1.33 - test_user [18/Jun/2026:11:27:36 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 4302
+192.168.1.39 - test_user [18/Jun/2026:11:13:49 -0600] "POST /dashboard HTTP/1.1" 200 OK 2257
+192.168.1.26 - root [18/Jun/2026:11:39:29 -0600] "GET /dashboard HTTP/1.1" 200 OK 2927
+192.168.1.97 - api_service [18/Jun/2026:11:18:12 -0600] "POST /settings HTTP/1.1" 404 Not Found 1544
+192.168.1.66 - manager [18/Jun/2026:11:12:20 -0600] "PUT /css/style.css HTTP/1.1" 404 Not Found 1672
+192.168.1.32 - root [18/Jun/2026:11:23:13 -0600] "PUT /index.html HTTP/1.1" 500 Internal Server Error 3312
+192.168.1.13 - manager [18/Jun/2026:11:12:19 -0600] "GET /index.html HTTP/1.1" 401 Unauthorized 816
+192.168.1.94 - operator [18/Jun/2026:11:14:23 -0600] "POST /index.html HTTP/1.1" 200 OK 2010
+192.168.1.190 - operator [18/Jun/2026:11:56:14 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 4823
+192.168.1.138 - api_service [18/Jun/2026:11:28:49 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 911
+192.168.1.202 - root [18/Jun/2026:11:12:57 -0600] "GET /logout HTTP/1.1" 200 OK 3739
+192.168.1.209 - manager [18/Jun/2026:11:37:19 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 943
+192.168.1.28 - sysadmin [18/Jun/2026:11:54:15 -0600] "PUT /settings HTTP/1.1" 200 OK 4866
+192.168.1.217 - test_user [18/Jun/2026:11:42:31 -0600] "POST /logout HTTP/1.1" 404 Not Found 3830
+192.168.1.28 - test_user [18/Jun/2026:11:28:27 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 3321
+192.168.1.62 - test_user [18/Jun/2026:11:18:36 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 4165
+192.168.1.225 - test_user [18/Jun/2026:11:57:49 -0600] "PUT /dashboard HTTP/1.1" 200 OK 1275
+192.168.1.111 - api_service [18/Jun/2026:11:56:43 -0600] "DELETE /dashboard HTTP/1.1" 500 Internal Server Error 3954
+192.168.1.16 - test_user [18/Jun/2026:11:49:19 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 2922
+192.168.1.204 - root [18/Jun/2026:11:45:35 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 3237
+192.168.1.98 - guest [18/Jun/2026:11:28:33 -0600] "GET /logout HTTP/1.1" 200 OK 3041
+192.168.1.129 - test_user [18/Jun/2026:11:21:35 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 3283
+192.168.1.89 - operator [18/Jun/2026:11:21:30 -0600] "PUT /api/v1/auth HTTP/1.1" 403 Forbidden 2983
+192.168.1.227 - admin [18/Jun/2026:11:51:41 -0600] "GET /css/style.css HTTP/1.1" 200 OK 729
+192.168.1.220 - user123 [18/Jun/2026:11:36:11 -0600] "POST /dashboard HTTP/1.1" 200 OK 1779
+192.168.1.238 - sysadmin [18/Jun/2026:11:22:29 -0600] "PUT /index.html HTTP/1.1" 200 OK 1377
+192.168.1.10 - developer [18/Jun/2026:11:58:38 -0600] "DELETE /index.html HTTP/1.1" 200 OK 1977
+192.168.1.251 - sysadmin [18/Jun/2026:11:34:57 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 370
+192.168.1.153 - developer [18/Jun/2026:11:24:18 -0600] "DELETE /index.html HTTP/1.1" 200 OK 2485
+192.168.1.127 - test_user [18/Jun/2026:11:41:54 -0600] "POST /settings HTTP/1.1" 200 OK 1205
+192.168.1.154 - sysadmin [18/Jun/2026:11:38:22 -0600] "GET /settings HTTP/1.1" 200 OK 4538
+192.168.1.13 - api_service [18/Jun/2026:11:26:59 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 829
+192.168.1.36 - admin [18/Jun/2026:11:46:17 -0600] "POST /logout HTTP/1.1" 200 OK 3712
+192.168.1.107 - test_user [18/Jun/2026:11:27:40 -0600] "GET /dashboard HTTP/1.1" 200 OK 5000
+192.168.1.220 - user123 [18/Jun/2026:11:26:13 -0600] "POST /js/main.js HTTP/1.1" 200 OK 593
+192.168.1.77 - operator [18/Jun/2026:11:24:21 -0600] "GET /dashboard HTTP/1.1" 200 OK 4665
+192.168.1.209 - manager [18/Jun/2026:11:48:27 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 4715
+192.168.1.167 - operator [18/Jun/2026:11:21:21 -0600] "DELETE /logout HTTP/1.1" 200 OK 4235
+192.168.1.152 - api_service [18/Jun/2026:11:29:34 -0600] "PUT /logout HTTP/1.1" 200 OK 1742
+192.168.1.26 - user123 [18/Jun/2026:11:24:32 -0600] "POST /dashboard HTTP/1.1" 200 OK 4578
+192.168.1.244 - operator [18/Jun/2026:11:31:56 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3025
+192.168.1.216 - root [18/Jun/2026:11:52:18 -0600] "GET /logout HTTP/1.1" 200 OK 148
+192.168.1.53 - api_service [18/Jun/2026:11:50:22 -0600] "POST /css/style.css HTTP/1.1" 200 OK 2063
+192.168.1.25 - test_user [18/Jun/2026:11:36:34 -0600] "PUT /logout HTTP/1.1" 404 Not Found 2179
+192.168.1.74 - api_service [18/Jun/2026:11:16:58 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3263
+192.168.1.91 - root [18/Jun/2026:11:38:26 -0600] "GET /index.html HTTP/1.1" 200 OK 2845
+192.168.1.227 - guest [18/Jun/2026:11:53:50 -0600] "GET /api/v2/data HTTP/1.1" 404 Not Found 842
+192.168.1.230 - user123 [18/Jun/2026:11:41:18 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 2427
+192.168.1.246 - root [18/Jun/2026:11:35:36 -0600] "PUT /logout HTTP/1.1" 200 OK 3978
+192.168.1.191 - sysadmin [18/Jun/2026:11:23:16 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 1551
+192.168.1.44 - guest [18/Jun/2026:11:33:33 -0600] "DELETE /settings HTTP/1.1" 200 OK 3830
+192.168.1.158 - sysadmin [18/Jun/2026:11:22:20 -0600] "DELETE /css/style.css HTTP/1.1" 403 Forbidden 2422
+192.168.1.91 - sysadmin [18/Jun/2026:11:19:41 -0600] "PUT /logout HTTP/1.1" 200 OK 1443
+192.168.1.198 - guest [18/Jun/2026:11:33:50 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 319
+192.168.1.241 - test_user [18/Jun/2026:11:53:22 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 126
+192.168.1.144 - root [18/Jun/2026:11:45:58 -0600] "POST /images/logo.png HTTP/1.1" 404 Not Found 1641
+192.168.1.64 - user123 [18/Jun/2026:11:32:17 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 4710
+192.168.1.139 - test_user [18/Jun/2026:11:42:53 -0600] "GET /dashboard HTTP/1.1" 401 Unauthorized 2111
+192.168.1.190 - manager [18/Jun/2026:11:18:52 -0600] "DELETE /settings HTTP/1.1" 403 Forbidden 4392
+192.168.1.136 - operator [18/Jun/2026:11:30:11 -0600] "GET /settings HTTP/1.1" 200 OK 2164
+192.168.1.162 - developer [18/Jun/2026:11:13:50 -0600] "POST /dashboard HTTP/1.1" 200 OK 1666
+192.168.1.120 - manager [18/Jun/2026:11:32:45 -0600] "GET /css/style.css HTTP/1.1" 200 OK 818
+192.168.1.55 - manager [18/Jun/2026:11:47:45 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 2863
+192.168.1.20 - api_service [18/Jun/2026:11:16:40 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 939
+192.168.1.138 - developer [18/Jun/2026:11:36:39 -0600] "POST /settings HTTP/1.1" 200 OK 1564
+192.168.1.200 - developer [18/Jun/2026:11:20:37 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 1054
+192.168.1.80 - manager [18/Jun/2026:11:41:41 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 2542
+192.168.1.171 - test_user [18/Jun/2026:11:20:22 -0600] "POST /images/logo.png HTTP/1.1" 500 Internal Server Error 4978
+192.168.1.248 - test_user [18/Jun/2026:11:55:45 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 3639
+192.168.1.128 - guest [18/Jun/2026:11:24:16 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 3659
+192.168.1.86 - manager [18/Jun/2026:11:28:27 -0600] "DELETE /logout HTTP/1.1" 500 Internal Server Error 1300
+192.168.1.236 - root [18/Jun/2026:11:56:47 -0600] "POST /js/main.js HTTP/1.1" 200 OK 1843
+192.168.1.84 - root [18/Jun/2026:11:57:15 -0600] "GET /logout HTTP/1.1" 200 OK 3609
+192.168.1.176 - test_user [18/Jun/2026:11:16:36 -0600] "DELETE /js/main.js HTTP/1.1" 500 Internal Server Error 1439
+192.168.1.66 - manager [18/Jun/2026:11:48:42 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 651
+192.168.1.217 - api_service [18/Jun/2026:11:41:24 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3189
+192.168.1.192 - api_service [18/Jun/2026:11:56:14 -0600] "PUT /settings HTTP/1.1" 500 Internal Server Error 972
+192.168.1.192 - api_service [18/Jun/2026:11:50:26 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 189
+192.168.1.203 - test_user [18/Jun/2026:11:34:47 -0600] "POST /js/main.js HTTP/1.1" 200 OK 548
+192.168.1.158 - admin [18/Jun/2026:11:22:34 -0600] "GET /index.html HTTP/1.1" 403 Forbidden 4597
+192.168.1.28 - test_user [18/Jun/2026:11:13:49 -0600] "PUT /index.html HTTP/1.1" 200 OK 3835
+192.168.1.126 - manager [18/Jun/2026:11:56:36 -0600] "GET /api/v2/data HTTP/1.1" 500 Internal Server Error 2721
+192.168.1.53 - developer [18/Jun/2026:11:14:57 -0600] "DELETE /index.html HTTP/1.1" 200 OK 547
+192.168.1.189 - guest [18/Jun/2026:11:23:59 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 2494
+192.168.1.165 - manager [18/Jun/2026:11:19:58 -0600] "POST /logout HTTP/1.1" 200 OK 2846
+192.168.1.37 - admin [18/Jun/2026:11:47:22 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 4862
+192.168.1.186 - manager [18/Jun/2026:11:45:12 -0600] "PUT /index.html HTTP/1.1" 200 OK 4090
+192.168.1.172 - sysadmin [18/Jun/2026:11:38:57 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 4675
+192.168.1.59 - operator [18/Jun/2026:11:39:35 -0600] "PUT /index.html HTTP/1.1" 401 Unauthorized 2410
+192.168.1.197 - sysadmin [18/Jun/2026:11:57:43 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 790
+192.168.1.33 - admin [18/Jun/2026:11:22:40 -0600] "PUT /logout HTTP/1.1" 200 OK 701
+192.168.1.32 - root [18/Jun/2026:11:49:30 -0600] "POST /logout HTTP/1.1" 200 OK 1176
+192.168.1.151 - sysadmin [18/Jun/2026:11:28:22 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3513
+192.168.1.70 - admin [18/Jun/2026:11:15:19 -0600] "PUT /dashboard HTTP/1.1" 200 OK 4800
+192.168.1.96 - guest [18/Jun/2026:11:53:12 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 4614
+192.168.1.87 - operator [18/Jun/2026:11:44:30 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 4178
+192.168.1.251 - api_service [18/Jun/2026:11:39:53 -0600] "DELETE /api/v2/data HTTP/1.1" 500 Internal Server Error 2073
+192.168.1.223 - sysadmin [18/Jun/2026:11:12:18 -0600] "POST /logout HTTP/1.1" 200 OK 2851
+192.168.1.12 - admin [18/Jun/2026:11:52:36 -0600] "POST /index.html HTTP/1.1" 200 OK 3638
+192.168.1.56 - manager [18/Jun/2026:11:30:25 -0600] "PUT /settings HTTP/1.1" 401 Unauthorized 2702
+192.168.1.197 - sysadmin [18/Jun/2026:11:58:15 -0600] "DELETE /api/v2/data HTTP/1.1" 404 Not Found 3979
+192.168.1.20 - operator [18/Jun/2026:11:26:44 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2233
+192.168.1.178 - manager [18/Jun/2026:11:51:23 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 2061
+192.168.1.31 - operator [18/Jun/2026:11:54:36 -0600] "GET /css/style.css HTTP/1.1" 200 OK 3142
+192.168.1.128 - admin [18/Jun/2026:11:10:42 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1004
+192.168.1.85 - guest [18/Jun/2026:11:28:33 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 542
+192.168.1.157 - user123 [18/Jun/2026:11:13:49 -0600] "GET /dashboard HTTP/1.1" 200 OK 4256
+192.168.1.223 - guest [18/Jun/2026:11:59:18 -0600] "POST /settings HTTP/1.1" 200 OK 1572
+192.168.1.50 - admin [18/Jun/2026:11:39:38 -0600] "POST /index.html HTTP/1.1" 200 OK 3284
+192.168.1.125 - guest [18/Jun/2026:11:41:32 -0600] "DELETE /index.html HTTP/1.1" 200 OK 1841
+192.168.1.173 - sysadmin [18/Jun/2026:11:44:32 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4661
+192.168.1.172 - admin [18/Jun/2026:11:21:57 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 836
+192.168.1.153 - user123 [18/Jun/2026:11:45:19 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 2953
+192.168.1.25 - manager [18/Jun/2026:11:41:15 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 4814
+192.168.1.30 - manager [18/Jun/2026:11:20:27 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2865
+192.168.1.212 - user123 [18/Jun/2026:11:39:46 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1324
+192.168.1.39 - guest [18/Jun/2026:11:43:17 -0600] "GET /settings HTTP/1.1" 200 OK 1888
+192.168.1.28 - operator [18/Jun/2026:11:25:32 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 3557
+192.168.1.43 - user123 [18/Jun/2026:11:24:48 -0600] "POST /css/style.css HTTP/1.1" 200 OK 621
+192.168.1.128 - api_service [18/Jun/2026:11:15:13 -0600] "GET /settings HTTP/1.1" 200 OK 1834
+192.168.1.95 - developer [18/Jun/2026:11:42:34 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 4357
+192.168.1.196 - admin [18/Jun/2026:11:50:59 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 1869
+192.168.1.76 - root [18/Jun/2026:11:43:52 -0600] "GET /css/style.css HTTP/1.1" 200 OK 269
+192.168.1.102 - api_service [18/Jun/2026:11:41:31 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 1770
+192.168.1.209 - admin [18/Jun/2026:11:41:28 -0600] "GET /logout HTTP/1.1" 200 OK 2815
+192.168.1.198 - manager [18/Jun/2026:11:50:57 -0600] "DELETE /css/style.css HTTP/1.1" 401 Unauthorized 2419
+192.168.1.219 - operator [18/Jun/2026:11:44:31 -0600] "POST /images/logo.png HTTP/1.1" 401 Unauthorized 668
+192.168.1.83 - api_service [18/Jun/2026:11:46:55 -0600] "PUT /js/main.js HTTP/1.1" 404 Not Found 3448
+192.168.1.52 - sysadmin [18/Jun/2026:11:29:20 -0600] "POST /settings HTTP/1.1" 200 OK 2566
+192.168.1.80 - admin [18/Jun/2026:11:49:31 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3816
+192.168.1.52 - root [18/Jun/2026:11:56:57 -0600] "DELETE /css/style.css HTTP/1.1" 500 Internal Server Error 4639
+192.168.1.67 - developer [18/Jun/2026:11:29:19 -0600] "POST /index.html HTTP/1.1" 200 OK 2105
+192.168.1.210 - guest [18/Jun/2026:11:22:32 -0600] "PUT /index.html HTTP/1.1" 200 OK 2665
+192.168.1.153 - root [18/Jun/2026:11:22:57 -0600] "POST /js/main.js HTTP/1.1" 200 OK 4926
+192.168.1.244 - root [18/Jun/2026:11:10:54 -0600] "GET /index.html HTTP/1.1" 200 OK 2948
+192.168.1.102 - admin [18/Jun/2026:11:16:55 -0600] "DELETE /api/v2/data HTTP/1.1" 403 Forbidden 3546
+192.168.1.13 - guest [18/Jun/2026:11:55:24 -0600] "PUT /index.html HTTP/1.1" 200 OK 965
+192.168.1.120 - developer [18/Jun/2026:11:24:45 -0600] "PUT /index.html HTTP/1.1" 403 Forbidden 4949
+192.168.1.171 - manager [18/Jun/2026:11:46:15 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 1235
+192.168.1.194 - guest [18/Jun/2026:11:26:32 -0600] "GET /css/style.css HTTP/1.1" 200 OK 2325
+192.168.1.249 - test_user [18/Jun/2026:11:32:55 -0600] "POST /css/style.css HTTP/1.1" 401 Unauthorized 3547
+192.168.1.142 - manager [18/Jun/2026:11:27:14 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3420
+192.168.1.120 - manager [18/Jun/2026:11:44:27 -0600] "GET /logout HTTP/1.1" 403 Forbidden 4903
+192.168.1.107 - guest [18/Jun/2026:11:33:11 -0600] "POST /index.html HTTP/1.1" 403 Forbidden 4145
+192.168.1.122 - operator [18/Jun/2026:11:42:54 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 2100
+192.168.1.170 - root [18/Jun/2026:11:54:18 -0600] "DELETE /logout HTTP/1.1" 200 OK 4125
+192.168.1.154 - sysadmin [18/Jun/2026:11:11:40 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 4811
+192.168.1.74 - developer [18/Jun/2026:11:26:11 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 3440
+192.168.1.226 - test_user [18/Jun/2026:11:38:54 -0600] "GET /dashboard HTTP/1.1" 200 OK 3973
+192.168.1.99 - manager [18/Jun/2026:11:19:34 -0600] "DELETE /dashboard HTTP/1.1" 500 Internal Server Error 987
+192.168.1.28 - test_user [18/Jun/2026:11:25:51 -0600] "DELETE /settings HTTP/1.1" 200 OK 4378
+192.168.1.45 - sysadmin [18/Jun/2026:11:27:24 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 4237
+192.168.1.150 - api_service [18/Jun/2026:11:25:55 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 877
+192.168.1.186 - developer [18/Jun/2026:11:49:59 -0600] "POST /settings HTTP/1.1" 200 OK 2061
+192.168.1.179 - test_user [18/Jun/2026:11:27:36 -0600] "DELETE /settings HTTP/1.1" 200 OK 4129
+192.168.1.245 - api_service [18/Jun/2026:11:16:41 -0600] "GET /dashboard HTTP/1.1" 200 OK 1303
+192.168.1.214 - sysadmin [18/Jun/2026:11:35:17 -0600] "PUT /images/logo.png HTTP/1.1" 500 Internal Server Error 3948
+192.168.1.125 - guest [18/Jun/2026:11:49:56 -0600] "DELETE /settings HTTP/1.1" 200 OK 1304
+192.168.1.222 - api_service [18/Jun/2026:11:14:34 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 737
+192.168.1.99 - manager [18/Jun/2026:11:34:52 -0600] "POST /images/logo.png HTTP/1.1" 500 Internal Server Error 2897
+192.168.1.181 - root [18/Jun/2026:11:54:20 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 3032
+192.168.1.78 - developer [18/Jun/2026:11:42:27 -0600] "POST /js/main.js HTTP/1.1" 401 Unauthorized 3743
+192.168.1.65 - developer [18/Jun/2026:11:38:50 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4030
+192.168.1.123 - api_service [18/Jun/2026:11:59:23 -0600] "POST /dashboard HTTP/1.1" 200 OK 3590
+192.168.1.96 - developer [18/Jun/2026:11:46:19 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 4556
+192.168.1.207 - sysadmin [18/Jun/2026:11:30:51 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 2678
+192.168.1.55 - developer [18/Jun/2026:11:26:26 -0600] "DELETE /logout HTTP/1.1" 401 Unauthorized 924
+192.168.1.77 - api_service [18/Jun/2026:11:13:17 -0600] "GET /index.html HTTP/1.1" 200 OK 4171
+192.168.1.69 - sysadmin [18/Jun/2026:11:52:42 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4752
+192.168.1.135 - guest [18/Jun/2026:11:10:43 -0600] "PUT /index.html HTTP/1.1" 401 Unauthorized 2109
+192.168.1.156 - admin [18/Jun/2026:11:27:12 -0600] "GET /css/style.css HTTP/1.1" 200 OK 4207
+192.168.1.85 - user123 [18/Jun/2026:11:14:48 -0600] "POST /settings HTTP/1.1" 200 OK 4435
+192.168.1.104 - sysadmin [18/Jun/2026:11:47:12 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 2472
+192.168.1.98 - manager [18/Jun/2026:11:55:42 -0600] "DELETE /logout HTTP/1.1" 200 OK 757
+192.168.1.217 - api_service [18/Jun/2026:11:28:28 -0600] "POST /index.html HTTP/1.1" 200 OK 3514
+192.168.1.191 - api_service [18/Jun/2026:11:40:31 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 4373
+192.168.1.193 - api_service [18/Jun/2026:11:29:34 -0600] "PUT /api/v2/data HTTP/1.1" 500 Internal Server Error 1568
+192.168.1.82 - sysadmin [18/Jun/2026:11:56:25 -0600] "GET /logout HTTP/1.1" 500 Internal Server Error 2621
+192.168.1.217 - user123 [18/Jun/2026:11:10:17 -0600] "PUT /dashboard HTTP/1.1" 200 OK 4215
+192.168.1.76 - sysadmin [18/Jun/2026:11:36:31 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4093
+192.168.1.56 - developer [18/Jun/2026:11:29:37 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3118
+192.168.1.27 - operator [18/Jun/2026:11:21:47 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 1898
+192.168.1.174 - test_user [18/Jun/2026:11:19:46 -0600] "GET /index.html HTTP/1.1" 200 OK 1076
+192.168.1.202 - guest [18/Jun/2026:11:42:11 -0600] "PUT /logout HTTP/1.1" 200 OK 942
+192.168.1.117 - sysadmin [18/Jun/2026:11:18:50 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 803
+192.168.1.247 - admin [18/Jun/2026:11:20:46 -0600] "DELETE /settings HTTP/1.1" 200 OK 2451
+192.168.1.247 - user123 [18/Jun/2026:11:17:43 -0600] "POST /index.html HTTP/1.1" 200 OK 4419
+192.168.1.154 - operator [18/Jun/2026:11:11:10 -0600] "DELETE /api/v2/data HTTP/1.1" 401 Unauthorized 3805
+192.168.1.249 - user123 [18/Jun/2026:11:56:18 -0600] "POST /index.html HTTP/1.1" 200 OK 705
+192.168.1.158 - api_service [18/Jun/2026:11:48:34 -0600] "PUT /dashboard HTTP/1.1" 200 OK 4174
+192.168.1.10 - operator [18/Jun/2026:11:41:10 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 895
+192.168.1.38 - api_service [18/Jun/2026:11:33:57 -0600] "POST /settings HTTP/1.1" 200 OK 2182
+192.168.1.147 - user123 [18/Jun/2026:11:34:43 -0600] "POST /css/style.css HTTP/1.1" 401 Unauthorized 3058
+192.168.1.80 - manager [18/Jun/2026:11:34:39 -0600] "PUT /js/main.js HTTP/1.1" 404 Not Found 454
+192.168.1.83 - manager [18/Jun/2026:11:44:56 -0600] "PUT /index.html HTTP/1.1" 200 OK 1172
+192.168.1.37 - api_service [18/Jun/2026:11:36:48 -0600] "GET /logout HTTP/1.1" 200 OK 4651
+192.168.1.167 - admin [18/Jun/2026:11:35:24 -0600] "POST /js/main.js HTTP/1.1" 403 Forbidden 1478
+192.168.1.75 - api_service [18/Jun/2026:11:14:25 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 1247
+192.168.1.197 - api_service [18/Jun/2026:11:42:34 -0600] "POST /dashboard HTTP/1.1" 200 OK 2822
+192.168.1.24 - user123 [18/Jun/2026:11:43:25 -0600] "GET /css/style.css HTTP/1.1" 401 Unauthorized 1413
+192.168.1.13 - api_service [18/Jun/2026:11:23:54 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3486
+192.168.1.132 - guest [18/Jun/2026:11:12:42 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 708
+192.168.1.97 - guest [18/Jun/2026:11:23:32 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3344
+192.168.1.179 - operator [18/Jun/2026:11:45:42 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 2495
+192.168.1.133 - manager [18/Jun/2026:11:29:38 -0600] "POST /index.html HTTP/1.1" 200 OK 3761
+192.168.1.141 - manager [18/Jun/2026:11:41:46 -0600] "POST /dashboard HTTP/1.1" 200 OK 2687
+192.168.1.161 - admin [18/Jun/2026:11:38:33 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4681
+192.168.1.82 - sysadmin [18/Jun/2026:11:36:46 -0600] "POST /logout HTTP/1.1" 404 Not Found 213
+192.168.1.158 - root [18/Jun/2026:11:27:52 -0600] "POST /settings HTTP/1.1" 500 Internal Server Error 1667
+192.168.1.71 - admin [18/Jun/2026:11:56:32 -0600] "DELETE /images/logo.png HTTP/1.1" 404 Not Found 3283
+192.168.1.67 - sysadmin [18/Jun/2026:11:18:21 -0600] "GET /logout HTTP/1.1" 200 OK 3833
+192.168.1.206 - manager [18/Jun/2026:11:11:53 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 1003
+192.168.1.22 - operator [18/Jun/2026:11:13:18 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 2961
+192.168.1.26 - admin [18/Jun/2026:11:20:57 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 1397
+192.168.1.79 - manager [18/Jun/2026:11:11:30 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 1409
+192.168.1.254 - api_service [18/Jun/2026:11:25:59 -0600] "POST /settings HTTP/1.1" 200 OK 239
+192.168.1.156 - manager [18/Jun/2026:11:51:40 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 4617
+192.168.1.153 - operator [18/Jun/2026:11:27:39 -0600] "PUT /js/main.js HTTP/1.1" 403 Forbidden 3648
+192.168.1.206 - manager [18/Jun/2026:11:13:35 -0600] "PUT /index.html HTTP/1.1" 404 Not Found 3853
+192.168.1.231 - manager [18/Jun/2026:11:53:14 -0600] "GET /css/style.css HTTP/1.1" 401 Unauthorized 2495
+192.168.1.226 - admin [18/Jun/2026:11:49:45 -0600] "PUT /dashboard HTTP/1.1" 401 Unauthorized 3917
+192.168.1.252 - guest [18/Jun/2026:11:52:58 -0600] "DELETE /index.html HTTP/1.1" 200 OK 4439
+192.168.1.214 - operator [18/Jun/2026:11:23:51 -0600] "GET /dashboard HTTP/1.1" 200 OK 3615
+192.168.1.87 - sysadmin [18/Jun/2026:11:51:48 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 4437
+192.168.1.148 - admin [18/Jun/2026:11:21:33 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 2472
+192.168.1.128 - guest [18/Jun/2026:11:16:32 -0600] "GET /css/style.css HTTP/1.1" 403 Forbidden 2505
+192.168.1.70 - developer [18/Jun/2026:11:13:18 -0600] "GET /settings HTTP/1.1" 200 OK 654
+192.168.1.227 - test_user [18/Jun/2026:11:42:22 -0600] "GET /settings HTTP/1.1" 200 OK 3608
+192.168.1.119 - operator [18/Jun/2026:11:10:35 -0600] "GET /index.html HTTP/1.1" 200 OK 4033
+192.168.1.38 - sysadmin [18/Jun/2026:11:23:57 -0600] "POST /css/style.css HTTP/1.1" 200 OK 1399
+192.168.1.13 - user123 [18/Jun/2026:11:26:10 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 3108
+192.168.1.78 - sysadmin [18/Jun/2026:11:15:40 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 3102
+192.168.1.96 - sysadmin [18/Jun/2026:11:10:15 -0600] "POST /css/style.css HTTP/1.1" 200 OK 2159
+192.168.1.227 - api_service [18/Jun/2026:11:10:14 -0600] "POST /css/style.css HTTP/1.1" 500 Internal Server Error 2449
+192.168.1.133 - api_service [18/Jun/2026:11:22:49 -0600] "DELETE /api/v2/data HTTP/1.1" 404 Not Found 3520
+192.168.1.64 - guest [18/Jun/2026:11:28:49 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 421
+192.168.1.33 - manager [18/Jun/2026:11:23:35 -0600] "PUT /api/v2/data HTTP/1.1" 401 Unauthorized 1035
+192.168.1.125 - sysadmin [18/Jun/2026:11:15:34 -0600] "GET /logout HTTP/1.1" 404 Not Found 429
+192.168.1.208 - test_user [18/Jun/2026:11:50:29 -0600] "PUT /index.html HTTP/1.1" 200 OK 4887
+192.168.1.85 - admin [18/Jun/2026:11:19:33 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 3055
+192.168.1.20 - admin [18/Jun/2026:11:34:21 -0600] "GET /index.html HTTP/1.1" 200 OK 4151
+192.168.1.222 - root [18/Jun/2026:11:56:27 -0600] "POST /logout HTTP/1.1" 200 OK 3408
+192.168.1.157 - test_user [18/Jun/2026:11:39:43 -0600] "PUT /js/main.js HTTP/1.1" 500 Internal Server Error 259
+192.168.1.149 - guest [18/Jun/2026:11:25:34 -0600] "DELETE /settings HTTP/1.1" 200 OK 1919
+192.168.1.71 - test_user [18/Jun/2026:11:35:27 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 269
+192.168.1.58 - api_service [18/Jun/2026:11:28:20 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 4437
+192.168.1.122 - api_service [18/Jun/2026:11:36:47 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 4759
+192.168.1.170 - manager [18/Jun/2026:11:15:16 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 822
+192.168.1.96 - user123 [18/Jun/2026:11:55:16 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 1806
+192.168.1.136 - root [18/Jun/2026:11:23:17 -0600] "PUT /index.html HTTP/1.1" 200 OK 3525
+192.168.1.10 - user123 [18/Jun/2026:11:49:12 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 2694
+192.168.1.180 - admin [18/Jun/2026:11:34:54 -0600] "PUT /api/v2/data HTTP/1.1" 500 Internal Server Error 1492
+192.168.1.136 - test_user [18/Jun/2026:11:48:31 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 2990
+192.168.1.188 - operator [18/Jun/2026:11:46:55 -0600] "POST /logout HTTP/1.1" 200 OK 833
+192.168.1.251 - developer [18/Jun/2026:11:43:55 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 1532
+192.168.1.11 - developer [18/Jun/2026:11:12:34 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3358
+192.168.1.57 - guest [18/Jun/2026:11:50:29 -0600] "PUT /settings HTTP/1.1" 401 Unauthorized 2411
+192.168.1.221 - operator [18/Jun/2026:11:10:27 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 2693
+192.168.1.74 - manager [18/Jun/2026:11:32:50 -0600] "POST /css/style.css HTTP/1.1" 200 OK 2103
+192.168.1.19 - test_user [18/Jun/2026:11:28:25 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 368
+192.168.1.228 - admin [18/Jun/2026:11:26:54 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3891
+192.168.1.112 - developer [18/Jun/2026:11:33:46 -0600] "GET /api/v2/data HTTP/1.1" 500 Internal Server Error 4396
+192.168.1.63 - manager [18/Jun/2026:11:34:49 -0600] "DELETE /settings HTTP/1.1" 200 OK 780
+192.168.1.235 - sysadmin [18/Jun/2026:11:36:45 -0600] "POST /index.html HTTP/1.1" 200 OK 189
+192.168.1.111 - manager [18/Jun/2026:11:46:56 -0600] "GET /dashboard HTTP/1.1" 200 OK 2331
+192.168.1.234 - api_service [18/Jun/2026:11:40:12 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 4332
+192.168.1.51 - user123 [18/Jun/2026:11:52:50 -0600] "GET /api/v1/auth HTTP/1.1" 401 Unauthorized 3364
+192.168.1.13 - operator [18/Jun/2026:11:27:33 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3408
+192.168.1.103 - user123 [18/Jun/2026:11:13:17 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 305
+192.168.1.19 - guest [18/Jun/2026:11:38:27 -0600] "GET /images/logo.png HTTP/1.1" 404 Not Found 502
+192.168.1.241 - user123 [18/Jun/2026:11:14:54 -0600] "POST /api/v1/auth HTTP/1.1" 500 Internal Server Error 2802
+192.168.1.115 - operator [18/Jun/2026:11:41:47 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4120
+192.168.1.181 - test_user [18/Jun/2026:11:11:52 -0600] "DELETE /logout HTTP/1.1" 404 Not Found 244
+192.168.1.233 - root [18/Jun/2026:11:16:24 -0600] "POST /js/main.js HTTP/1.1" 403 Forbidden 881
+192.168.1.111 - api_service [18/Jun/2026:11:30:44 -0600] "GET /settings HTTP/1.1" 404 Not Found 3442
+192.168.1.102 - api_service [18/Jun/2026:11:32:45 -0600] "DELETE /logout HTTP/1.1" 200 OK 3929
+192.168.1.21 - user123 [18/Jun/2026:11:39:21 -0600] "PUT /dashboard HTTP/1.1" 401 Unauthorized 4990
+192.168.1.175 - test_user [18/Jun/2026:11:32:49 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 1897
+192.168.1.252 - guest [18/Jun/2026:11:17:59 -0600] "GET /index.html HTTP/1.1" 500 Internal Server Error 1765
+192.168.1.43 - manager [18/Jun/2026:11:40:13 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 4995
+192.168.1.251 - test_user [18/Jun/2026:11:54:21 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3076
+192.168.1.81 - guest [18/Jun/2026:11:56:27 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 1478
+192.168.1.68 - operator [18/Jun/2026:11:22:46 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3065
+192.168.1.218 - root [18/Jun/2026:11:38:48 -0600] "POST /dashboard HTTP/1.1" 200 OK 1670
+192.168.1.35 - api_service [18/Jun/2026:11:46:58 -0600] "PUT /settings HTTP/1.1" 200 OK 4704
+192.168.1.74 - root [18/Jun/2026:11:24:31 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 306
+192.168.1.150 - user123 [18/Jun/2026:11:55:35 -0600] "DELETE /api/v1/auth HTTP/1.1" 500 Internal Server Error 225
+192.168.1.209 - developer [18/Jun/2026:11:47:13 -0600] "DELETE /index.html HTTP/1.1" 200 OK 2947
+192.168.1.214 - api_service [18/Jun/2026:11:17:47 -0600] "POST /logout HTTP/1.1" 200 OK 678
+192.168.1.247 - manager [18/Jun/2026:11:45:29 -0600] "DELETE /index.html HTTP/1.1" 401 Unauthorized 3306
+192.168.1.129 - developer [18/Jun/2026:11:37:53 -0600] "GET /dashboard HTTP/1.1" 200 OK 3016
+192.168.1.97 - operator [18/Jun/2026:11:41:34 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 1446
+192.168.1.52 - operator [18/Jun/2026:11:16:46 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 313
+192.168.1.143 - operator [18/Jun/2026:11:15:24 -0600] "DELETE /settings HTTP/1.1" 200 OK 322
+192.168.1.45 - guest [18/Jun/2026:11:44:42 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1425
+192.168.1.107 - sysadmin [18/Jun/2026:11:32:46 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 1662
+192.168.1.176 - developer [18/Jun/2026:11:31:42 -0600] "DELETE /dashboard HTTP/1.1" 404 Not Found 3214
+192.168.1.142 - sysadmin [18/Jun/2026:11:51:44 -0600] "GET /css/style.css HTTP/1.1" 200 OK 1487
+192.168.1.72 - root [18/Jun/2026:11:49:35 -0600] "GET /logout HTTP/1.1" 200 OK 4252
+192.168.1.44 - user123 [18/Jun/2026:11:39:50 -0600] "POST /css/style.css HTTP/1.1" 200 OK 1393
+192.168.1.179 - test_user [18/Jun/2026:11:18:58 -0600] "POST /api/v2/data HTTP/1.1" 403 Forbidden 1642
+192.168.1.112 - root [18/Jun/2026:11:28:22 -0600] "POST /css/style.css HTTP/1.1" 403 Forbidden 4310
+192.168.1.112 - user123 [18/Jun/2026:11:42:20 -0600] "POST /dashboard HTTP/1.1" 200 OK 3611
+192.168.1.54 - developer [18/Jun/2026:11:25:22 -0600] "GET /index.html HTTP/1.1" 401 Unauthorized 4409
+192.168.1.153 - sysadmin [18/Jun/2026:11:11:25 -0600] "DELETE /settings HTTP/1.1" 200 OK 1041
+192.168.1.165 - manager [18/Jun/2026:11:47:10 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2491
+192.168.1.140 - test_user [18/Jun/2026:11:52:42 -0600] "GET /index.html HTTP/1.1" 200 OK 1259
+192.168.1.199 - manager [18/Jun/2026:11:26:40 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 3888
+192.168.1.193 - api_service [18/Jun/2026:11:53:50 -0600] "POST /logout HTTP/1.1" 404 Not Found 1279
+192.168.1.95 - operator [18/Jun/2026:11:37:29 -0600] "PUT /css/style.css HTTP/1.1" 500 Internal Server Error 4535
+192.168.1.98 - operator [18/Jun/2026:11:28:22 -0600] "POST /js/main.js HTTP/1.1" 200 OK 1632
+192.168.1.50 - test_user [18/Jun/2026:11:21:53 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 1958
+192.168.1.77 - guest [18/Jun/2026:11:23:27 -0600] "PUT /index.html HTTP/1.1" 200 OK 107
+192.168.1.130 - api_service [18/Jun/2026:11:54:28 -0600] "POST /index.html HTTP/1.1" 200 OK 3343
+192.168.1.176 - api_service [18/Jun/2026:11:43:18 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 784
+192.168.1.222 - operator [18/Jun/2026:11:21:10 -0600] "PUT /logout HTTP/1.1" 200 OK 3686
+192.168.1.109 - guest [18/Jun/2026:11:42:34 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3179
+192.168.1.30 - operator [18/Jun/2026:11:14:14 -0600] "POST /logout HTTP/1.1" 500 Internal Server Error 190
+192.168.1.50 - manager [18/Jun/2026:11:17:44 -0600] "GET /settings HTTP/1.1" 403 Forbidden 4973
+192.168.1.97 - admin [18/Jun/2026:11:34:19 -0600] "PUT /index.html HTTP/1.1" 200 OK 3784
+192.168.1.181 - manager [18/Jun/2026:11:10:15 -0600] "GET /logout HTTP/1.1" 500 Internal Server Error 845
+192.168.1.104 - root [18/Jun/2026:11:35:55 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3598
+192.168.1.142 - api_service [18/Jun/2026:11:35:45 -0600] "DELETE /dashboard HTTP/1.1" 404 Not Found 1809
+192.168.1.140 - test_user [18/Jun/2026:11:35:54 -0600] "PUT /settings HTTP/1.1" 500 Internal Server Error 4840
+192.168.1.210 - root [18/Jun/2026:11:30:14 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 2149
+192.168.1.86 - guest [18/Jun/2026:11:57:50 -0600] "GET /css/style.css HTTP/1.1" 200 OK 2024
+192.168.1.25 - manager [18/Jun/2026:11:46:46 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 989
+192.168.1.84 - manager [18/Jun/2026:11:55:30 -0600] "POST /index.html HTTP/1.1" 404 Not Found 3347
+192.168.1.65 - manager [18/Jun/2026:11:13:40 -0600] "DELETE /settings HTTP/1.1" 200 OK 814
+192.168.1.48 - api_service [18/Jun/2026:11:11:32 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 3719
+192.168.1.154 - test_user [18/Jun/2026:11:39:56 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1654
+192.168.1.182 - operator [18/Jun/2026:11:30:47 -0600] "GET /logout HTTP/1.1" 200 OK 492
+192.168.1.238 - admin [18/Jun/2026:11:18:18 -0600] "POST /api/v1/auth HTTP/1.1" 404 Not Found 1067
+192.168.1.113 - manager [18/Jun/2026:11:37:28 -0600] "GET /images/logo.png HTTP/1.1" 404 Not Found 2630
+192.168.1.75 - admin [18/Jun/2026:11:37:51 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4473
+192.168.1.149 - developer [18/Jun/2026:11:28:45 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 3125
+192.168.1.42 - root [18/Jun/2026:11:45:42 -0600] "POST /css/style.css HTTP/1.1" 404 Not Found 1951
+192.168.1.10 - user123 [18/Jun/2026:11:37:58 -0600] "PUT /index.html HTTP/1.1" 200 OK 1011
+192.168.1.173 - sysadmin [18/Jun/2026:11:16:50 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 660
+192.168.1.103 - root [18/Jun/2026:11:20:27 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1578
+192.168.1.11 - api_service [18/Jun/2026:11:47:55 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 3858
+192.168.1.114 - user123 [18/Jun/2026:11:12:47 -0600] "GET /index.html HTTP/1.1" 200 OK 3988
+192.168.1.166 - developer [18/Jun/2026:11:53:33 -0600] "DELETE /logout HTTP/1.1" 200 OK 133
+192.168.1.91 - api_service [18/Jun/2026:11:40:20 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 1256
+192.168.1.145 - admin [18/Jun/2026:11:44:46 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 4706
+192.168.1.119 - sysadmin [18/Jun/2026:11:15:43 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1142
+192.168.1.203 - operator [18/Jun/2026:11:54:11 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 4600
+192.168.1.182 - user123 [18/Jun/2026:11:48:10 -0600] "POST /api/v2/data HTTP/1.1" 401 Unauthorized 642
+192.168.1.60 - developer [18/Jun/2026:11:13:45 -0600] "GET /js/main.js HTTP/1.1" 200 OK 3314
+192.168.1.239 - developer [18/Jun/2026:11:36:34 -0600] "PUT /index.html HTTP/1.1" 500 Internal Server Error 440
+192.168.1.92 - test_user [18/Jun/2026:11:12:10 -0600] "GET /index.html HTTP/1.1" 200 OK 1909
+192.168.1.169 - guest [18/Jun/2026:11:10:47 -0600] "DELETE /settings HTTP/1.1" 403 Forbidden 538
+192.168.1.214 - admin [18/Jun/2026:11:26:52 -0600] "DELETE /logout HTTP/1.1" 500 Internal Server Error 1563
+192.168.1.210 - admin [18/Jun/2026:11:14:19 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 4851
+192.168.1.21 - manager [18/Jun/2026:11:39:31 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 670
+192.168.1.122 - manager [18/Jun/2026:11:10:20 -0600] "DELETE /dashboard HTTP/1.1" 403 Forbidden 4937
+192.168.1.224 - admin [18/Jun/2026:11:20:44 -0600] "POST /logout HTTP/1.1" 200 OK 4948
+192.168.1.213 - user123 [18/Jun/2026:11:32:43 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 3804
+192.168.1.248 - root [18/Jun/2026:11:50:59 -0600] "POST /dashboard HTTP/1.1" 200 OK 2689
+192.168.1.74 - guest [18/Jun/2026:11:47:20 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 3150
+192.168.1.253 - sysadmin [18/Jun/2026:11:50:34 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4732
+192.168.1.211 - sysadmin [18/Jun/2026:11:24:43 -0600] "GET /settings HTTP/1.1" 200 OK 4880
+192.168.1.156 - sysadmin [18/Jun/2026:11:17:12 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 1736
+192.168.1.235 - sysadmin [18/Jun/2026:11:20:58 -0600] "POST /index.html HTTP/1.1" 200 OK 2406
+192.168.1.187 - api_service [18/Jun/2026:11:43:41 -0600] "POST /dashboard HTTP/1.1" 200 OK 1821
+192.168.1.157 - manager [18/Jun/2026:11:49:33 -0600] "GET /js/main.js HTTP/1.1" 403 Forbidden 4871
+192.168.1.55 - api_service [18/Jun/2026:11:41:49 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 2312
+192.168.1.100 - api_service [18/Jun/2026:11:47:34 -0600] "GET /js/main.js HTTP/1.1" 404 Not Found 1278
+192.168.1.160 - user123 [18/Jun/2026:11:36:27 -0600] "PUT /settings HTTP/1.1" 200 OK 926
+192.168.1.106 - root [18/Jun/2026:11:13:32 -0600] "GET /api/v1/auth HTTP/1.1" 403 Forbidden 1185
+192.168.1.167 - api_service [18/Jun/2026:11:35:29 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1295
+192.168.1.223 - test_user [18/Jun/2026:11:33:52 -0600] "DELETE /index.html HTTP/1.1" 401 Unauthorized 4756
+192.168.1.98 - sysadmin [18/Jun/2026:11:33:32 -0600] "DELETE /index.html HTTP/1.1" 200 OK 155
+192.168.1.127 - test_user [18/Jun/2026:11:32:52 -0600] "GET /logout HTTP/1.1" 200 OK 3401
+192.168.1.94 - test_user [18/Jun/2026:11:55:15 -0600] "GET /settings HTTP/1.1" 500 Internal Server Error 211
+192.168.1.146 - sysadmin [18/Jun/2026:11:13:52 -0600] "GET /logout HTTP/1.1" 200 OK 1054
+192.168.1.202 - manager [18/Jun/2026:11:37:22 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 2027
+192.168.1.45 - operator [18/Jun/2026:11:10:24 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 740
+192.168.1.129 - admin [18/Jun/2026:11:53:38 -0600] "GET /settings HTTP/1.1" 200 OK 2974
+192.168.1.66 - api_service [18/Jun/2026:11:21:58 -0600] "POST /css/style.css HTTP/1.1" 200 OK 1422
+192.168.1.26 - operator [18/Jun/2026:11:22:50 -0600] "GET /css/style.css HTTP/1.1" 200 OK 2969
+192.168.1.116 - operator [18/Jun/2026:11:23:52 -0600] "GET /dashboard HTTP/1.1" 200 OK 4936
+192.168.1.252 - test_user [18/Jun/2026:11:40:11 -0600] "PUT /images/logo.png HTTP/1.1" 500 Internal Server Error 4869
+192.168.1.64 - admin [18/Jun/2026:11:27:54 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3483
+192.168.1.46 - guest [18/Jun/2026:11:18:24 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 3643
+192.168.1.239 - user123 [18/Jun/2026:11:19:15 -0600] "DELETE /index.html HTTP/1.1" 200 OK 656
+192.168.1.59 - developer [18/Jun/2026:11:12:21 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 3321
+192.168.1.144 - guest [18/Jun/2026:11:21:22 -0600] "PUT /js/main.js HTTP/1.1" 404 Not Found 3177
+192.168.1.47 - admin [18/Jun/2026:11:56:29 -0600] "POST /js/main.js HTTP/1.1" 200 OK 845
+192.168.1.99 - root [18/Jun/2026:11:37:18 -0600] "DELETE /logout HTTP/1.1" 200 OK 3659
+192.168.1.150 - admin [18/Jun/2026:11:32:22 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 2651
+192.168.1.41 - operator [18/Jun/2026:11:21:25 -0600] "GET /dashboard HTTP/1.1" 200 OK 2088
+192.168.1.127 - api_service [18/Jun/2026:11:21:20 -0600] "POST /dashboard HTTP/1.1" 200 OK 4608
+192.168.1.55 - manager [18/Jun/2026:11:34:31 -0600] "GET /js/main.js HTTP/1.1" 401 Unauthorized 3733
+192.168.1.87 - test_user [18/Jun/2026:11:54:13 -0600] "DELETE /api/v2/data HTTP/1.1" 500 Internal Server Error 4455
+192.168.1.142 - user123 [18/Jun/2026:11:42:57 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 801
+192.168.1.132 - developer [18/Jun/2026:11:25:51 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 3942
+192.168.1.178 - test_user [18/Jun/2026:11:37:44 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 3188
+192.168.1.224 - api_service [18/Jun/2026:11:57:22 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 3336
+192.168.1.79 - guest [18/Jun/2026:11:58:39 -0600] "DELETE /dashboard HTTP/1.1" 500 Internal Server Error 674
+192.168.1.33 - test_user [18/Jun/2026:11:33:17 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2820
+192.168.1.46 - operator [18/Jun/2026:11:10:29 -0600] "DELETE /logout HTTP/1.1" 200 OK 4018
+192.168.1.129 - test_user [18/Jun/2026:11:21:11 -0600] "POST /logout HTTP/1.1" 200 OK 4142
+192.168.1.132 - test_user [18/Jun/2026:11:24:50 -0600] "GET /logout HTTP/1.1" 403 Forbidden 1387
+192.168.1.230 - guest [18/Jun/2026:11:58:52 -0600] "GET /dashboard HTTP/1.1" 200 OK 2642
+192.168.1.111 - developer [18/Jun/2026:11:18:30 -0600] "PUT /index.html HTTP/1.1" 403 Forbidden 3746
+192.168.1.73 - sysadmin [18/Jun/2026:11:22:42 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 226
+192.168.1.22 - developer [18/Jun/2026:11:49:24 -0600] "POST /settings HTTP/1.1" 200 OK 4028
+192.168.1.113 - developer [18/Jun/2026:11:15:56 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1921
+192.168.1.162 - operator [18/Jun/2026:11:53:42 -0600] "DELETE /settings HTTP/1.1" 200 OK 4458
+192.168.1.107 - api_service [18/Jun/2026:11:19:20 -0600] "DELETE /logout HTTP/1.1" 500 Internal Server Error 4492
+192.168.1.221 - root [18/Jun/2026:11:18:55 -0600] "GET /dashboard HTTP/1.1" 404 Not Found 4475
+192.168.1.64 - sysadmin [18/Jun/2026:11:59:41 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4991
+192.168.1.234 - test_user [18/Jun/2026:11:45:14 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 4926
+192.168.1.84 - manager [18/Jun/2026:11:32:41 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3192
+192.168.1.29 - admin [18/Jun/2026:11:36:31 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 2697
+192.168.1.150 - manager [18/Jun/2026:11:54:51 -0600] "POST /dashboard HTTP/1.1" 403 Forbidden 829
+192.168.1.172 - root [18/Jun/2026:11:42:23 -0600] "GET /settings HTTP/1.1" 200 OK 1518
+192.168.1.221 - guest [18/Jun/2026:11:44:28 -0600] "POST /js/main.js HTTP/1.1" 403 Forbidden 253
+192.168.1.119 - sysadmin [18/Jun/2026:11:43:19 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 1460
+192.168.1.25 - operator [18/Jun/2026:11:32:52 -0600] "POST /js/main.js HTTP/1.1" 200 OK 2056
+192.168.1.39 - manager [18/Jun/2026:11:34:51 -0600] "GET /dashboard HTTP/1.1" 200 OK 1213
+192.168.1.241 - developer [18/Jun/2026:11:32:59 -0600] "GET /index.html HTTP/1.1" 200 OK 1552
+192.168.1.54 - operator [18/Jun/2026:11:23:18 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 2559
+192.168.1.58 - guest [18/Jun/2026:11:48:42 -0600] "PUT /logout HTTP/1.1" 200 OK 1011
+192.168.1.131 - guest [18/Jun/2026:11:31:15 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 500
+192.168.1.136 - admin [18/Jun/2026:11:54:47 -0600] "POST /js/main.js HTTP/1.1" 403 Forbidden 4242
+192.168.1.84 - operator [18/Jun/2026:11:13:25 -0600] "POST /js/main.js HTTP/1.1" 200 OK 2671
+192.168.1.225 - operator [18/Jun/2026:11:16:16 -0600] "POST /logout HTTP/1.1" 401 Unauthorized 2049
+192.168.1.42 - guest [18/Jun/2026:11:28:34 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 4203
+192.168.1.225 - api_service [18/Jun/2026:11:59:56 -0600] "POST /settings HTTP/1.1" 404 Not Found 3820
+192.168.1.157 - admin [18/Jun/2026:11:32:42 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4174
+192.168.1.180 - admin [18/Jun/2026:11:37:43 -0600] "POST /js/main.js HTTP/1.1" 200 OK 2334
+192.168.1.197 - developer [18/Jun/2026:11:20:25 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 4905
+192.168.1.87 - guest [18/Jun/2026:11:13:16 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 4166
+192.168.1.187 - user123 [18/Jun/2026:11:30:32 -0600] "POST /settings HTTP/1.1" 500 Internal Server Error 2027
+192.168.1.231 - user123 [18/Jun/2026:11:45:40 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 914
+192.168.1.124 - test_user [18/Jun/2026:11:32:55 -0600] "GET /index.html HTTP/1.1" 200 OK 786
+192.168.1.38 - user123 [18/Jun/2026:11:44:42 -0600] "POST /dashboard HTTP/1.1" 200 OK 4398
+192.168.1.156 - guest [18/Jun/2026:11:30:50 -0600] "PUT /settings HTTP/1.1" 200 OK 2031
+192.168.1.153 - test_user [18/Jun/2026:11:33:33 -0600] "GET /logout HTTP/1.1" 200 OK 262
+192.168.1.53 - admin [18/Jun/2026:11:30:31 -0600] "GET /settings HTTP/1.1" 200 OK 4969
+192.168.1.179 - user123 [18/Jun/2026:11:35:39 -0600] "POST /settings HTTP/1.1" 200 OK 3034
+192.168.1.32 - sysadmin [18/Jun/2026:11:13:59 -0600] "GET /api/v2/data HTTP/1.1" 403 Forbidden 1304
+192.168.1.208 - guest [18/Jun/2026:11:18:53 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4183
+192.168.1.135 - guest [18/Jun/2026:11:42:55 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 4141
+192.168.1.29 - test_user [18/Jun/2026:11:49:10 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 759
+192.168.1.167 - root [18/Jun/2026:11:55:46 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3269
+192.168.1.42 - test_user [18/Jun/2026:11:35:36 -0600] "PUT /index.html HTTP/1.1" 403 Forbidden 980
+192.168.1.251 - developer [18/Jun/2026:11:49:52 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 4162
+192.168.1.144 - api_service [18/Jun/2026:11:56:14 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 4178
+192.168.1.45 - api_service [18/Jun/2026:11:56:42 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4365
+192.168.1.58 - root [18/Jun/2026:11:27:41 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2235
+192.168.1.49 - api_service [18/Jun/2026:11:13:23 -0600] "POST /logout HTTP/1.1" 403 Forbidden 4354
+192.168.1.56 - admin [18/Jun/2026:11:59:29 -0600] "DELETE /api/v2/data HTTP/1.1" 403 Forbidden 826
+192.168.1.197 - root [18/Jun/2026:11:39:25 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3153
+192.168.1.199 - guest [18/Jun/2026:11:17:16 -0600] "PUT /dashboard HTTP/1.1" 200 OK 984
+192.168.1.82 - user123 [18/Jun/2026:11:21:58 -0600] "POST /dashboard HTTP/1.1" 200 OK 3801
+192.168.1.118 - test_user [18/Jun/2026:11:24:31 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3248
+192.168.1.13 - operator [18/Jun/2026:11:38:18 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 2628
+192.168.1.186 - user123 [18/Jun/2026:11:50:25 -0600] "POST /css/style.css HTTP/1.1" 401 Unauthorized 2243
+192.168.1.109 - root [18/Jun/2026:11:54:54 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3349
+192.168.1.113 - admin [18/Jun/2026:11:45:58 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 3132
+192.168.1.171 - manager [18/Jun/2026:11:59:10 -0600] "PUT /logout HTTP/1.1" 200 OK 4866
+192.168.1.109 - operator [18/Jun/2026:11:57:38 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1596
+192.168.1.251 - api_service [18/Jun/2026:11:22:33 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 2093
+192.168.1.191 - api_service [18/Jun/2026:11:38:56 -0600] "GET /index.html HTTP/1.1" 200 OK 3082
+192.168.1.170 - sysadmin [18/Jun/2026:11:19:20 -0600] "POST /js/main.js HTTP/1.1" 200 OK 4728
+192.168.1.147 - operator [18/Jun/2026:11:21:53 -0600] "GET /dashboard HTTP/1.1" 401 Unauthorized 630
+192.168.1.65 - admin [18/Jun/2026:11:52:53 -0600] "GET /logout HTTP/1.1" 200 OK 2837
+192.168.1.77 - developer [18/Jun/2026:11:21:29 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1691
+192.168.1.197 - developer [18/Jun/2026:11:40:23 -0600] "GET /css/style.css HTTP/1.1" 200 OK 330
+192.168.1.135 - user123 [18/Jun/2026:11:31:29 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 4777
+192.168.1.227 - operator [18/Jun/2026:11:11:32 -0600] "DELETE /api/v1/auth HTTP/1.1" 403 Forbidden 4490
+192.168.1.116 - operator [18/Jun/2026:11:22:20 -0600] "POST /settings HTTP/1.1" 500 Internal Server Error 2182
+192.168.1.215 - manager [18/Jun/2026:11:57:54 -0600] "DELETE /settings HTTP/1.1" 200 OK 3521
+192.168.1.90 - user123 [18/Jun/2026:11:24:55 -0600] "DELETE /logout HTTP/1.1" 500 Internal Server Error 2674
+192.168.1.217 - admin [18/Jun/2026:11:45:30 -0600] "POST /dashboard HTTP/1.1" 200 OK 1322
+192.168.1.51 - operator [18/Jun/2026:11:43:42 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 1405
+192.168.1.224 - admin [18/Jun/2026:11:48:47 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1115
+192.168.1.26 - guest [18/Jun/2026:11:38:39 -0600] "GET /index.html HTTP/1.1" 404 Not Found 1049
+192.168.1.231 - developer [18/Jun/2026:11:47:13 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 364
+192.168.1.177 - admin [18/Jun/2026:11:44:48 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 4270
+192.168.1.235 - api_service [18/Jun/2026:11:56:13 -0600] "GET /logout HTTP/1.1" 200 OK 512
+192.168.1.28 - sysadmin [18/Jun/2026:11:41:42 -0600] "GET /settings HTTP/1.1" 200 OK 3902
+192.168.1.162 - manager [18/Jun/2026:11:29:56 -0600] "PUT /index.html HTTP/1.1" 401 Unauthorized 1042
+192.168.1.79 - operator [18/Jun/2026:11:45:36 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3160
+192.168.1.167 - operator [18/Jun/2026:11:40:57 -0600] "GET /index.html HTTP/1.1" 200 OK 3172
+192.168.1.190 - user123 [18/Jun/2026:11:39:49 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1094
+192.168.1.184 - manager [18/Jun/2026:11:34:54 -0600] "DELETE /js/main.js HTTP/1.1" 401 Unauthorized 1313
+192.168.1.105 - test_user [18/Jun/2026:11:53:44 -0600] "GET /index.html HTTP/1.1" 200 OK 1449
+192.168.1.165 - test_user [18/Jun/2026:11:59:52 -0600] "POST /dashboard HTTP/1.1" 401 Unauthorized 1322
+192.168.1.20 - user123 [18/Jun/2026:11:48:10 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 1455
+192.168.1.94 - operator [18/Jun/2026:11:39:58 -0600] "DELETE /css/style.css HTTP/1.1" 404 Not Found 1774
+192.168.1.191 - operator [18/Jun/2026:11:16:55 -0600] "PUT /images/logo.png HTTP/1.1" 403 Forbidden 3061
+192.168.1.182 - root [18/Jun/2026:11:14:34 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 473
+192.168.1.76 - test_user [18/Jun/2026:11:20:55 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 4165
+192.168.1.183 - test_user [18/Jun/2026:11:27:27 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 4033
+192.168.1.113 - root [18/Jun/2026:11:40:26 -0600] "PUT /js/main.js HTTP/1.1" 404 Not Found 3107
+192.168.1.154 - api_service [18/Jun/2026:11:21:18 -0600] "PUT /index.html HTTP/1.1" 200 OK 4612
+192.168.1.243 - developer [18/Jun/2026:11:18:53 -0600] "PUT /logout HTTP/1.1" 200 OK 3583
+192.168.1.153 - test_user [18/Jun/2026:11:15:23 -0600] "POST /settings HTTP/1.1" 200 OK 131
+192.168.1.32 - developer [18/Jun/2026:11:20:58 -0600] "POST /dashboard HTTP/1.1" 200 OK 2009
+192.168.1.189 - user123 [18/Jun/2026:11:27:34 -0600] "DELETE /settings HTTP/1.1" 200 OK 2725
+192.168.1.242 - sysadmin [18/Jun/2026:11:13:34 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2739
+192.168.1.169 - admin [18/Jun/2026:11:45:20 -0600] "POST /api/v2/data HTTP/1.1" 401 Unauthorized 1018
+192.168.1.83 - manager [18/Jun/2026:11:31:53 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3074
+192.168.1.38 - user123 [18/Jun/2026:11:34:34 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3860
+192.168.1.38 - admin [18/Jun/2026:11:52:54 -0600] "DELETE /images/logo.png HTTP/1.1" 401 Unauthorized 2755
+192.168.1.43 - sysadmin [18/Jun/2026:11:40:54 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3756
+192.168.1.19 - developer [18/Jun/2026:11:10:56 -0600] "PUT /index.html HTTP/1.1" 200 OK 2627
+192.168.1.15 - manager [18/Jun/2026:11:39:53 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 2848
+192.168.1.145 - manager [18/Jun/2026:11:28:12 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 3446
+192.168.1.123 - manager [18/Jun/2026:11:50:52 -0600] "DELETE /index.html HTTP/1.1" 404 Not Found 2215
+192.168.1.139 - manager [18/Jun/2026:11:45:41 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 3292
+192.168.1.165 - admin [18/Jun/2026:11:55:35 -0600] "PUT /dashboard HTTP/1.1" 200 OK 1692
+192.168.1.71 - sysadmin [18/Jun/2026:11:10:43 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 3537
+192.168.1.34 - sysadmin [18/Jun/2026:11:11:58 -0600] "POST /api/v2/data HTTP/1.1" 500 Internal Server Error 592
+192.168.1.153 - operator [18/Jun/2026:11:46:22 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 2043
+192.168.1.23 - sysadmin [18/Jun/2026:11:23:42 -0600] "DELETE /settings HTTP/1.1" 403 Forbidden 4839
+192.168.1.72 - sysadmin [18/Jun/2026:11:32:29 -0600] "GET /settings HTTP/1.1" 200 OK 577
+192.168.1.236 - admin [18/Jun/2026:11:41:34 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3785
+192.168.1.75 - test_user [18/Jun/2026:11:53:34 -0600] "PUT /api/v2/data HTTP/1.1" 401 Unauthorized 2390
+192.168.1.165 - api_service [18/Jun/2026:11:27:46 -0600] "PUT /index.html HTTP/1.1" 500 Internal Server Error 1099
+192.168.1.173 - api_service [18/Jun/2026:11:48:50 -0600] "POST /settings HTTP/1.1" 200 OK 4886
+192.168.1.238 - admin [18/Jun/2026:11:59:18 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1113
+192.168.1.179 - admin [18/Jun/2026:11:37:58 -0600] "GET /js/main.js HTTP/1.1" 200 OK 2913
+192.168.1.85 - root [18/Jun/2026:11:53:30 -0600] "POST /settings HTTP/1.1" 200 OK 1373
+192.168.1.78 - admin [18/Jun/2026:11:35:37 -0600] "GET /logout HTTP/1.1" 200 OK 4083
+192.168.1.66 - developer [18/Jun/2026:11:35:16 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3763
+192.168.1.129 - operator [18/Jun/2026:11:41:45 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 764
+192.168.1.154 - user123 [18/Jun/2026:11:17:15 -0600] "POST /dashboard HTTP/1.1" 401 Unauthorized 4097
+192.168.1.60 - root [18/Jun/2026:11:59:23 -0600] "PUT /js/main.js HTTP/1.1" 500 Internal Server Error 1513
+192.168.1.95 - user123 [18/Jun/2026:11:36:21 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4690
+192.168.1.69 - developer [18/Jun/2026:11:10:22 -0600] "DELETE /logout HTTP/1.1" 200 OK 2901
+192.168.1.101 - operator [18/Jun/2026:11:11:33 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 3607
+192.168.1.217 - sysadmin [18/Jun/2026:11:38:47 -0600] "PUT /index.html HTTP/1.1" 404 Not Found 1469
+192.168.1.208 - root [18/Jun/2026:11:16:53 -0600] "PUT /api/v2/data HTTP/1.1" 401 Unauthorized 1629
+192.168.1.46 - admin [18/Jun/2026:11:48:18 -0600] "GET /settings HTTP/1.1" 200 OK 1163
+192.168.1.209 - api_service [18/Jun/2026:11:20:34 -0600] "DELETE /css/style.css HTTP/1.1" 403 Forbidden 1361
+192.168.1.129 - root [18/Jun/2026:11:31:14 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 1096
+192.168.1.156 - guest [18/Jun/2026:11:22:42 -0600] "POST /dashboard HTTP/1.1" 200 OK 957
+192.168.1.184 - api_service [18/Jun/2026:11:49:51 -0600] "DELETE /index.html HTTP/1.1" 200 OK 890
+192.168.1.74 - manager [18/Jun/2026:11:34:51 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 702
+192.168.1.175 - test_user [18/Jun/2026:11:54:49 -0600] "GET /images/logo.png HTTP/1.1" 500 Internal Server Error 3973
+192.168.1.215 - operator [18/Jun/2026:11:30:54 -0600] "DELETE /settings HTTP/1.1" 200 OK 4091
+192.168.1.210 - developer [18/Jun/2026:11:55:50 -0600] "POST /api/v1/auth HTTP/1.1" 403 Forbidden 3546
+192.168.1.206 - admin [18/Jun/2026:11:44:28 -0600] "GET /settings HTTP/1.1" 200 OK 1848
+192.168.1.148 - user123 [18/Jun/2026:11:32:17 -0600] "DELETE /settings HTTP/1.1" 200 OK 2911
+192.168.1.225 - guest [18/Jun/2026:11:15:58 -0600] "PUT /css/style.css HTTP/1.1" 404 Not Found 4684
+192.168.1.214 - manager [18/Jun/2026:11:29:51 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4020
+192.168.1.226 - guest [18/Jun/2026:11:37:44 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 1544
+192.168.1.88 - boscheduardo [18/Jun/2026:11:42:15 -0600] "POST /api/v1/secure-login HTTP/1.1" 200 OK 2450
+192.168.1.102 - manager [18/Jun/2026:11:11:20 -0600] "POST /settings HTTP/1.1" 404 Not Found 1523
+192.168.1.157 - operator [18/Jun/2026:11:46:12 -0600] "GET /index.html HTTP/1.1" 404 Not Found 682
+192.168.1.135 - root [18/Jun/2026:11:28:28 -0600] "GET /api/v2/data HTTP/1.1" 401 Unauthorized 737
+192.168.1.241 - test_user [18/Jun/2026:11:52:20 -0600] "GET /settings HTTP/1.1" 500 Internal Server Error 4890
+192.168.1.174 - admin [18/Jun/2026:11:48:54 -0600] "GET /css/style.css HTTP/1.1" 200 OK 3835
+192.168.1.153 - root [18/Jun/2026:11:13:31 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3525
+192.168.1.184 - api_service [18/Jun/2026:11:57:22 -0600] "GET /js/main.js HTTP/1.1" 200 OK 1446
+192.168.1.128 - test_user [18/Jun/2026:11:48:54 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 2863
+192.168.1.10 - guest [18/Jun/2026:11:34:54 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4236
+192.168.1.211 - test_user [18/Jun/2026:11:43:13 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 3665
+192.168.1.208 - sysadmin [18/Jun/2026:11:45:20 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 442
+192.168.1.240 - test_user [18/Jun/2026:11:57:33 -0600] "GET /css/style.css HTTP/1.1" 200 OK 1671
+192.168.1.198 - developer [18/Jun/2026:11:29:45 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 3250
+192.168.1.198 - admin [18/Jun/2026:11:59:33 -0600] "GET /index.html HTTP/1.1" 200 OK 4280
+192.168.1.63 - user123 [18/Jun/2026:11:35:42 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1764
+192.168.1.91 - operator [18/Jun/2026:11:43:22 -0600] "DELETE /settings HTTP/1.1" 200 OK 313
+192.168.1.120 - developer [18/Jun/2026:11:22:12 -0600] "POST /settings HTTP/1.1" 500 Internal Server Error 4504
+192.168.1.197 - operator [18/Jun/2026:11:54:46 -0600] "POST /settings HTTP/1.1" 401 Unauthorized 3416
+192.168.1.48 - user123 [18/Jun/2026:11:53:58 -0600] "POST /index.html HTTP/1.1" 200 OK 2612
+192.168.1.82 - root [18/Jun/2026:11:30:32 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2067
+192.168.1.113 - test_user [18/Jun/2026:11:15:28 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 1437
+192.168.1.96 - admin [18/Jun/2026:11:54:32 -0600] "GET /js/main.js HTTP/1.1" 200 OK 861
+192.168.1.21 - root [18/Jun/2026:11:23:31 -0600] "GET /logout HTTP/1.1" 200 OK 3124
+192.168.1.95 - test_user [18/Jun/2026:11:55:44 -0600] "GET /settings HTTP/1.1" 200 OK 1222
+192.168.1.58 - root [18/Jun/2026:11:10:16 -0600] "DELETE /logout HTTP/1.1" 401 Unauthorized 2003
+192.168.1.225 - manager [18/Jun/2026:11:30:40 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 2306
+192.168.1.223 - api_service [18/Jun/2026:11:38:25 -0600] "PUT /settings HTTP/1.1" 404 Not Found 3246
+192.168.1.63 - admin [18/Jun/2026:11:12:38 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 2713
+192.168.1.67 - root [18/Jun/2026:11:42:38 -0600] "GET /css/style.css HTTP/1.1" 404 Not Found 2934
+192.168.1.72 - user123 [18/Jun/2026:11:49:14 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 2055
+192.168.1.254 - root [18/Jun/2026:11:56:22 -0600] "GET /logout HTTP/1.1" 200 OK 3971
+192.168.1.235 - operator [18/Jun/2026:11:54:23 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2168
+192.168.1.83 - root [18/Jun/2026:11:56:48 -0600] "POST /css/style.css HTTP/1.1" 404 Not Found 1076
+192.168.1.217 - api_service [18/Jun/2026:11:50:19 -0600] "POST /images/logo.png HTTP/1.1" 500 Internal Server Error 2083
+192.168.1.200 - manager [18/Jun/2026:11:27:45 -0600] "PUT /api/v1/auth HTTP/1.1" 403 Forbidden 2196
+192.168.1.126 - admin [18/Jun/2026:11:35:35 -0600] "DELETE /index.html HTTP/1.1" 200 OK 4272
+192.168.1.36 - developer [18/Jun/2026:11:15:41 -0600] "PUT /index.html HTTP/1.1" 200 OK 222
+192.168.1.81 - api_service [18/Jun/2026:11:50:58 -0600] "DELETE /logout HTTP/1.1" 200 OK 1064
+192.168.1.119 - user123 [18/Jun/2026:11:56:14 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3720
+192.168.1.179 - sysadmin [18/Jun/2026:11:21:18 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1417
+192.168.1.122 - user123 [18/Jun/2026:11:57:16 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 1511
+192.168.1.73 - manager [18/Jun/2026:11:55:11 -0600] "DELETE /css/style.css HTTP/1.1" 404 Not Found 3647
+192.168.1.189 - developer [18/Jun/2026:11:45:56 -0600] "DELETE /settings HTTP/1.1" 200 OK 4512
+192.168.1.239 - admin [18/Jun/2026:11:29:21 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4394
+192.168.1.167 - user123 [18/Jun/2026:11:41:13 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 3101
+192.168.1.34 - user123 [18/Jun/2026:11:57:58 -0600] "POST /logout HTTP/1.1" 200 OK 3526
+192.168.1.163 - user123 [18/Jun/2026:11:14:12 -0600] "DELETE /api/v2/data HTTP/1.1" 401 Unauthorized 846
+192.168.1.111 - sysadmin [18/Jun/2026:11:28:54 -0600] "GET /images/logo.png HTTP/1.1" 500 Internal Server Error 606
+192.168.1.207 - developer [18/Jun/2026:11:32:38 -0600] "PUT /js/main.js HTTP/1.1" 500 Internal Server Error 519
+192.168.1.138 - manager [18/Jun/2026:11:51:26 -0600] "DELETE /images/logo.png HTTP/1.1" 403 Forbidden 1085
+192.168.1.234 - guest [18/Jun/2026:11:39:10 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1993
+192.168.1.35 - user123 [18/Jun/2026:11:10:23 -0600] "PUT /api/v2/data HTTP/1.1" 404 Not Found 206
+192.168.1.70 - operator [18/Jun/2026:11:15:23 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 1692
+192.168.1.246 - manager [18/Jun/2026:11:18:51 -0600] "PUT /index.html HTTP/1.1" 200 OK 4464
+192.168.1.175 - test_user [18/Jun/2026:11:48:51 -0600] "DELETE /index.html HTTP/1.1" 200 OK 1164
+192.168.1.187 - test_user [18/Jun/2026:11:39:46 -0600] "GET /css/style.css HTTP/1.1" 404 Not Found 2773
+192.168.1.149 - manager [18/Jun/2026:11:24:36 -0600] "POST /settings HTTP/1.1" 200 OK 2632
+192.168.1.38 - manager [18/Jun/2026:11:50:40 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 809
+192.168.1.112 - sysadmin [18/Jun/2026:11:40:43 -0600] "PUT /settings HTTP/1.1" 200 OK 2478
+192.168.1.52 - admin [18/Jun/2026:11:24:53 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 4826
+192.168.1.36 - guest [18/Jun/2026:11:26:47 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 4100
+192.168.1.122 - root [18/Jun/2026:11:57:34 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 2958
+192.168.1.31 - developer [18/Jun/2026:11:56:12 -0600] "POST /css/style.css HTTP/1.1" 404 Not Found 3593
+192.168.1.130 - guest [18/Jun/2026:11:16:51 -0600] "POST /css/style.css HTTP/1.1" 403 Forbidden 802
+192.168.1.56 - api_service [18/Jun/2026:11:50:45 -0600] "POST /js/main.js HTTP/1.1" 200 OK 2129
+192.168.1.232 - manager [18/Jun/2026:11:23:44 -0600] "PUT /api/v1/auth HTTP/1.1" 200 OK 4023
+192.168.1.193 - sysadmin [18/Jun/2026:11:58:38 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3783
+192.168.1.237 - user123 [18/Jun/2026:11:50:46 -0600] "POST /logout HTTP/1.1" 200 OK 3317
+192.168.1.212 - sysadmin [18/Jun/2026:11:40:38 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 948
+192.168.1.22 - admin [18/Jun/2026:11:33:27 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 2458
+192.168.1.43 - operator [18/Jun/2026:11:35:59 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 570
+192.168.1.85 - manager [18/Jun/2026:11:37:19 -0600] "DELETE /images/logo.png HTTP/1.1" 404 Not Found 4637
+192.168.1.159 - root [18/Jun/2026:11:25:29 -0600] "DELETE /logout HTTP/1.1" 200 OK 349
+192.168.1.78 - developer [18/Jun/2026:11:31:39 -0600] "PUT /index.html HTTP/1.1" 200 OK 3219
+192.168.1.71 - developer [18/Jun/2026:11:43:44 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 4862
+192.168.1.57 - root [18/Jun/2026:11:17:29 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 2560
+192.168.1.176 - guest [18/Jun/2026:11:25:36 -0600] "DELETE /logout HTTP/1.1" 200 OK 4888
+192.168.1.71 - admin [18/Jun/2026:11:30:57 -0600] "PUT /dashboard HTTP/1.1" 200 OK 3371
+192.168.1.89 - guest [18/Jun/2026:11:48:14 -0600] "GET /logout HTTP/1.1" 200 OK 3848
+192.168.1.152 - user123 [18/Jun/2026:11:45:15 -0600] "PUT /js/main.js HTTP/1.1" 403 Forbidden 1096
+192.168.1.141 - guest [18/Jun/2026:11:39:54 -0600] "POST /images/logo.png HTTP/1.1" 403 Forbidden 449
+192.168.1.148 - operator [18/Jun/2026:11:18:49 -0600] "GET /index.html HTTP/1.1" 200 OK 1267
+192.168.1.164 - test_user [18/Jun/2026:11:57:41 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1828
+192.168.1.210 - guest [18/Jun/2026:11:23:40 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 3155
+192.168.1.157 - manager [18/Jun/2026:11:42:20 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 2733
+192.168.1.93 - api_service [18/Jun/2026:11:24:25 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1347
+192.168.1.163 - root [18/Jun/2026:11:54:51 -0600] "GET /index.html HTTP/1.1" 200 OK 3231
+192.168.1.198 - operator [18/Jun/2026:11:49:47 -0600] "GET /logout HTTP/1.1" 200 OK 2031
+192.168.1.144 - test_user [18/Jun/2026:11:48:23 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 270
+192.168.1.77 - sysadmin [18/Jun/2026:11:37:20 -0600] "DELETE /js/main.js HTTP/1.1" 500 Internal Server Error 1793
+192.168.1.11 - manager [18/Jun/2026:11:14:51 -0600] "DELETE /index.html HTTP/1.1" 200 OK 356
+192.168.1.104 - admin [18/Jun/2026:11:44:19 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 410
+192.168.1.21 - test_user [18/Jun/2026:11:37:18 -0600] "PUT /api/v1/auth HTTP/1.1" 403 Forbidden 4784
+192.168.1.108 - manager [18/Jun/2026:11:18:26 -0600] "DELETE /index.html HTTP/1.1" 200 OK 4407
+192.168.1.45 - guest [18/Jun/2026:11:28:26 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 2260
+192.168.1.49 - root [18/Jun/2026:11:25:46 -0600] "POST /index.html HTTP/1.1" 200 OK 3708
+192.168.1.208 - api_service [18/Jun/2026:11:48:28 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4489
+192.168.1.62 - user123 [18/Jun/2026:11:52:20 -0600] "POST /dashboard HTTP/1.1" 200 OK 1429
+192.168.1.157 - api_service [18/Jun/2026:11:28:17 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 2464
+192.168.1.202 - manager [18/Jun/2026:11:52:42 -0600] "POST /logout HTTP/1.1" 200 OK 4579
+192.168.1.252 - root [18/Jun/2026:11:50:14 -0600] "GET /js/main.js HTTP/1.1" 200 OK 1245
+192.168.1.46 - operator [18/Jun/2026:11:22:19 -0600] "DELETE /js/main.js HTTP/1.1" 200 OK 4596
+192.168.1.177 - test_user [18/Jun/2026:11:29:53 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 1886
+192.168.1.196 - user123 [18/Jun/2026:11:19:39 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 2218
+192.168.1.129 - api_service [18/Jun/2026:11:44:10 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 3904
+192.168.1.223 - operator [18/Jun/2026:11:24:49 -0600] "POST /settings HTTP/1.1" 200 OK 3512
+192.168.1.11 - root [18/Jun/2026:11:45:32 -0600] "GET /dashboard HTTP/1.1" 200 OK 1943
+192.168.1.189 - operator [18/Jun/2026:11:46:45 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 3882
+192.168.1.48 - test_user [18/Jun/2026:11:13:46 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 3456
+192.168.1.35 - sysadmin [18/Jun/2026:11:16:59 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 3277
+192.168.1.92 - guest [18/Jun/2026:11:22:50 -0600] "DELETE /dashboard HTTP/1.1" 500 Internal Server Error 4260
+192.168.1.111 - sysadmin [18/Jun/2026:11:35:44 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 952
+192.168.1.125 - test_user [18/Jun/2026:11:17:20 -0600] "GET /settings HTTP/1.1" 200 OK 1506
+192.168.1.195 - admin [18/Jun/2026:11:20:29 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 2640
+192.168.1.252 - operator [18/Jun/2026:11:13:20 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 3692
+192.168.1.90 - sysadmin [18/Jun/2026:11:20:30 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4846
+192.168.1.246 - operator [18/Jun/2026:11:16:42 -0600] "PUT /settings HTTP/1.1" 200 OK 4916
+192.168.1.249 - root [18/Jun/2026:11:12:56 -0600] "DELETE /api/v2/data HTTP/1.1" 200 OK 1127
+192.168.1.169 - developer [18/Jun/2026:11:19:24 -0600] "PUT /dashboard HTTP/1.1" 500 Internal Server Error 4246
+192.168.1.96 - manager [18/Jun/2026:11:31:18 -0600] "PUT /index.html HTTP/1.1" 403 Forbidden 691
+192.168.1.66 - api_service [18/Jun/2026:11:44:19 -0600] "POST /dashboard HTTP/1.1" 500 Internal Server Error 1631
+192.168.1.70 - user123 [18/Jun/2026:11:47:16 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1689
+192.168.1.215 - developer [18/Jun/2026:11:20:52 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 3873
+192.168.1.187 - developer [18/Jun/2026:11:51:33 -0600] "DELETE /logout HTTP/1.1" 200 OK 1751
+192.168.1.212 - admin [18/Jun/2026:11:25:24 -0600] "GET /js/main.js HTTP/1.1" 200 OK 2919
+192.168.1.24 - user123 [18/Jun/2026:11:16:30 -0600] "DELETE /index.html HTTP/1.1" 403 Forbidden 1910
+192.168.1.25 - api_service [18/Jun/2026:11:36:14 -0600] "DELETE /js/main.js HTTP/1.1" 401 Unauthorized 4929
+192.168.1.95 - manager [18/Jun/2026:11:59:51 -0600] "POST /dashboard HTTP/1.1" 200 OK 4943
+192.168.1.81 - admin [18/Jun/2026:11:43:17 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 757
+192.168.1.253 - operator [18/Jun/2026:11:49:57 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 2056
+192.168.1.108 - root [18/Jun/2026:11:27:30 -0600] "GET /dashboard HTTP/1.1" 200 OK 3061
+192.168.1.249 - manager [18/Jun/2026:11:37:37 -0600] "DELETE /logout HTTP/1.1" 200 OK 4121
+192.168.1.93 - api_service [18/Jun/2026:11:53:47 -0600] "PUT /index.html HTTP/1.1" 404 Not Found 3647
+192.168.1.156 - api_service [18/Jun/2026:11:29:36 -0600] "GET /dashboard HTTP/1.1" 403 Forbidden 4001
+192.168.1.146 - guest [18/Jun/2026:11:22:42 -0600] "DELETE /settings HTTP/1.1" 403 Forbidden 1188
+192.168.1.42 - user123 [18/Jun/2026:11:47:39 -0600] "GET /index.html HTTP/1.1" 404 Not Found 1985
+192.168.1.31 - guest [18/Jun/2026:11:15:20 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 3395
+192.168.1.155 - developer [18/Jun/2026:11:10:26 -0600] "POST /api/v1/auth HTTP/1.1" 404 Not Found 1497
+192.168.1.112 - manager [18/Jun/2026:11:14:31 -0600] "PUT /index.html HTTP/1.1" 404 Not Found 1812
+192.168.1.15 - admin [18/Jun/2026:11:44:27 -0600] "GET /css/style.css HTTP/1.1" 403 Forbidden 4682
+192.168.1.249 - developer [18/Jun/2026:11:50:38 -0600] "DELETE /settings HTTP/1.1" 200 OK 827
+192.168.1.248 - test_user [18/Jun/2026:11:17:55 -0600] "GET /dashboard HTTP/1.1" 200 OK 3099
+192.168.1.156 - test_user [18/Jun/2026:11:23:44 -0600] "POST /settings HTTP/1.1" 200 OK 807
+192.168.1.162 - admin [18/Jun/2026:11:29:59 -0600] "POST /api/v2/data HTTP/1.1" 404 Not Found 2836
+192.168.1.60 - admin [18/Jun/2026:11:31:53 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 168
+192.168.1.40 - manager [18/Jun/2026:11:31:57 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1294
+192.168.1.245 - root [18/Jun/2026:11:29:50 -0600] "GET /logout HTTP/1.1" 200 OK 875
+192.168.1.211 - operator [18/Jun/2026:11:44:23 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 4652
+192.168.1.193 - manager [18/Jun/2026:11:25:29 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1668
+192.168.1.65 - root [18/Jun/2026:11:51:34 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 1579
+192.168.1.142 - sysadmin [18/Jun/2026:11:20:20 -0600] "PUT /index.html HTTP/1.1" 200 OK 1022
+192.168.1.121 - root [18/Jun/2026:11:35:54 -0600] "DELETE /settings HTTP/1.1" 200 OK 2002
+192.168.1.232 - manager [18/Jun/2026:11:43:18 -0600] "GET /api/v1/auth HTTP/1.1" 200 OK 931
+192.168.1.239 - developer [18/Jun/2026:11:57:34 -0600] "GET /settings HTTP/1.1" 200 OK 1031
+192.168.1.141 - test_user [18/Jun/2026:11:40:46 -0600] "PUT /index.html HTTP/1.1" 200 OK 2337
+192.168.1.75 - operator [18/Jun/2026:11:38:27 -0600] "POST /settings HTTP/1.1" 200 OK 2533
+192.168.1.151 - guest [18/Jun/2026:11:56:32 -0600] "PUT /dashboard HTTP/1.1" 401 Unauthorized 3571
+192.168.1.18 - api_service [18/Jun/2026:11:31:32 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 585
+192.168.1.214 - admin [18/Jun/2026:11:33:10 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 3464
+192.168.1.116 - guest [18/Jun/2026:11:43:14 -0600] "POST /index.html HTTP/1.1" 404 Not Found 2011
+192.168.1.171 - root [18/Jun/2026:11:55:24 -0600] "PUT /api/v2/data HTTP/1.1" 401 Unauthorized 570
+192.168.1.219 - test_user [18/Jun/2026:11:40:21 -0600] "DELETE /dashboard HTTP/1.1" 200 OK 4588
+192.168.1.15 - guest [18/Jun/2026:11:28:17 -0600] "POST /api/v1/auth HTTP/1.1" 401 Unauthorized 4636
+192.168.1.204 - developer [18/Jun/2026:11:21:54 -0600] "GET /dashboard HTTP/1.1" 200 OK 3886
+192.168.1.221 - user123 [18/Jun/2026:11:50:33 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3438
+192.168.1.65 - developer [18/Jun/2026:11:26:40 -0600] "DELETE /index.html HTTP/1.1" 200 OK 187
+192.168.1.162 - sysadmin [18/Jun/2026:11:35:43 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 291
+192.168.1.38 - api_service [18/Jun/2026:11:58:27 -0600] "PUT /images/logo.png HTTP/1.1" 500 Internal Server Error 2668
+192.168.1.112 - sysadmin [18/Jun/2026:11:51:18 -0600] "GET /settings HTTP/1.1" 200 OK 4578
+192.168.1.138 - root [18/Jun/2026:11:10:25 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2105
+192.168.1.189 - admin [18/Jun/2026:11:11:19 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 733
+192.168.1.38 - root [18/Jun/2026:11:43:36 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 3668
+192.168.1.32 - operator [18/Jun/2026:11:11:53 -0600] "PUT /index.html HTTP/1.1" 200 OK 3675
+192.168.1.14 - root [18/Jun/2026:11:39:13 -0600] "PUT /settings HTTP/1.1" 200 OK 719
+192.168.1.93 - sysadmin [18/Jun/2026:11:51:27 -0600] "POST /settings HTTP/1.1" 200 OK 2295
+192.168.1.231 - sysadmin [18/Jun/2026:11:32:35 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 222
+192.168.1.78 - root [18/Jun/2026:11:42:55 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3369
+192.168.1.171 - developer [18/Jun/2026:11:13:21 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 125
+192.168.1.236 - root [18/Jun/2026:11:54:21 -0600] "DELETE /logout HTTP/1.1" 200 OK 3712
+192.168.1.243 - sysadmin [18/Jun/2026:11:14:16 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 2141
+192.168.1.163 - admin [18/Jun/2026:11:13:44 -0600] "POST /js/main.js HTTP/1.1" 200 OK 3284
+192.168.1.97 - user123 [18/Jun/2026:11:14:56 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 3546
+192.168.1.164 - test_user [18/Jun/2026:11:11:17 -0600] "POST /css/style.css HTTP/1.1" 200 OK 3616
+192.168.1.162 - sysadmin [18/Jun/2026:11:52:34 -0600] "PUT /settings HTTP/1.1" 200 OK 4207
+192.168.1.31 - sysadmin [18/Jun/2026:11:52:54 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1804
+192.168.1.218 - developer [18/Jun/2026:11:45:50 -0600] "GET /settings HTTP/1.1" 200 OK 3526
+192.168.1.114 - user123 [18/Jun/2026:11:19:25 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 1152
+192.168.1.124 - api_service [18/Jun/2026:11:19:17 -0600] "GET /dashboard HTTP/1.1" 200 OK 198
+192.168.1.198 - test_user [18/Jun/2026:11:25:59 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 1465
+192.168.1.34 - sysadmin [18/Jun/2026:11:44:48 -0600] "PUT /dashboard HTTP/1.1" 200 OK 1856
+192.168.1.158 - guest [18/Jun/2026:11:39:27 -0600] "GET /settings HTTP/1.1" 401 Unauthorized 4782
+192.168.1.87 - sysadmin [18/Jun/2026:11:55:25 -0600] "DELETE /api/v2/data HTTP/1.1" 500 Internal Server Error 237
+192.168.1.174 - sysadmin [18/Jun/2026:11:44:25 -0600] "POST /settings HTTP/1.1" 200 OK 2758
+192.168.1.200 - developer [18/Jun/2026:11:57:18 -0600] "PUT /index.html HTTP/1.1" 200 OK 4393
+192.168.1.247 - guest [18/Jun/2026:11:16:32 -0600] "GET /api/v1/auth HTTP/1.1" 500 Internal Server Error 4816
+192.168.1.78 - admin [18/Jun/2026:11:55:27 -0600] "POST /settings HTTP/1.1" 200 OK 2127
+192.168.1.138 - sysadmin [18/Jun/2026:11:10:58 -0600] "GET /index.html HTTP/1.1" 200 OK 4598
+192.168.1.200 - test_user [18/Jun/2026:11:58:37 -0600] "PUT /logout HTTP/1.1" 401 Unauthorized 4953
+192.168.1.204 - api_service [18/Jun/2026:11:44:14 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 3326
+192.168.1.30 - sysadmin [18/Jun/2026:11:59:21 -0600] "GET /dashboard HTTP/1.1" 200 OK 2602
+192.168.1.87 - developer [18/Jun/2026:11:19:39 -0600] "POST /api/v2/data HTTP/1.1" 403 Forbidden 3029
+192.168.1.119 - api_service [18/Jun/2026:11:19:28 -0600] "POST /dashboard HTTP/1.1" 200 OK 2844
+192.168.1.177 - developer [18/Jun/2026:11:37:59 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 4346
+192.168.1.248 - api_service [18/Jun/2026:11:11:34 -0600] "PUT /dashboard HTTP/1.1" 500 Internal Server Error 2595
+192.168.1.253 - guest [18/Jun/2026:11:13:34 -0600] "PUT /logout HTTP/1.1" 200 OK 757
+192.168.1.143 - operator [18/Jun/2026:11:34:43 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 2236
+192.168.1.30 - root [18/Jun/2026:11:42:53 -0600] "GET /images/logo.png HTTP/1.1" 401 Unauthorized 3516
+192.168.1.190 - operator [18/Jun/2026:11:28:47 -0600] "POST /index.html HTTP/1.1" 403 Forbidden 259
+192.168.1.115 - manager [18/Jun/2026:11:40:19 -0600] "GET /index.html HTTP/1.1" 200 OK 2162
+192.168.1.210 - root [18/Jun/2026:11:36:58 -0600] "DELETE /settings HTTP/1.1" 200 OK 558
+192.168.1.96 - sysadmin [18/Jun/2026:11:21:13 -0600] "PUT /dashboard HTTP/1.1" 200 OK 768
+192.168.1.114 - developer [18/Jun/2026:11:49:53 -0600] "GET /dashboard HTTP/1.1" 500 Internal Server Error 4098
+192.168.1.139 - test_user [18/Jun/2026:11:37:11 -0600] "POST /images/logo.png HTTP/1.1" 403 Forbidden 2635
+192.168.1.97 - manager [18/Jun/2026:11:16:31 -0600] "DELETE /css/style.css HTTP/1.1" 403 Forbidden 2837
+192.168.1.213 - operator [18/Jun/2026:11:11:48 -0600] "POST /js/main.js HTTP/1.1" 401 Unauthorized 4946
+192.168.1.10 - test_user [18/Jun/2026:11:38:50 -0600] "POST /css/style.css HTTP/1.1" 200 OK 4680
+192.168.1.28 - root [18/Jun/2026:11:41:47 -0600] "POST /settings HTTP/1.1" 200 OK 291
+192.168.1.50 - api_service [18/Jun/2026:11:34:39 -0600] "GET /logout HTTP/1.1" 401 Unauthorized 3046
+192.168.1.102 - test_user [18/Jun/2026:11:17:34 -0600] "GET /index.html HTTP/1.1" 200 OK 1856
+192.168.1.138 - admin [18/Jun/2026:11:17:35 -0600] "GET /logout HTTP/1.1" 200 OK 230
+192.168.1.62 - root [18/Jun/2026:11:31:40 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 1376
+192.168.1.226 - manager [18/Jun/2026:11:45:49 -0600] "GET /js/main.js HTTP/1.1" 200 OK 3932
+192.168.1.181 - root [18/Jun/2026:11:46:41 -0600] "POST /index.html HTTP/1.1" 500 Internal Server Error 2070
+192.168.1.216 - developer [18/Jun/2026:11:35:46 -0600] "GET /images/logo.png HTTP/1.1" 200 OK 2342
+192.168.1.179 - sysadmin [18/Jun/2026:11:50:32 -0600] "POST /js/main.js HTTP/1.1" 200 OK 615
+192.168.1.69 - developer [18/Jun/2026:11:51:19 -0600] "PUT /logout HTTP/1.1" 500 Internal Server Error 585
+192.168.1.46 - root [18/Jun/2026:11:56:14 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 2469
+192.168.1.126 - manager [18/Jun/2026:11:49:59 -0600] "PUT /js/main.js HTTP/1.1" 200 OK 2710
+192.168.1.160 - api_service [18/Jun/2026:11:17:33 -0600] "GET /settings HTTP/1.1" 200 OK 728
+192.168.1.186 - sysadmin [18/Jun/2026:11:38:49 -0600] "POST /css/style.css HTTP/1.1" 403 Forbidden 4087
+192.168.1.84 - api_service [18/Jun/2026:11:13:23 -0600] "DELETE /api/v1/auth HTTP/1.1" 200 OK 558
+192.168.1.110 - user123 [18/Jun/2026:11:40:35 -0600] "GET /js/main.js HTTP/1.1" 200 OK 4343
+192.168.1.24 - guest [18/Jun/2026:11:33:51 -0600] "POST /dashboard HTTP/1.1" 200 OK 1789
+192.168.1.222 - user123 [18/Jun/2026:11:38:16 -0600] "POST /dashboard HTTP/1.1" 200 OK 4887
+192.168.1.33 - operator [18/Jun/2026:11:46:58 -0600] "POST /images/logo.png HTTP/1.1" 200 OK 3034
+192.168.1.123 - developer [18/Jun/2026:11:53:28 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 878
+192.168.1.187 - sysadmin [18/Jun/2026:11:48:53 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 4985
+192.168.1.90 - manager [18/Jun/2026:11:42:28 -0600] "DELETE /images/logo.png HTTP/1.1" 200 OK 3949
+192.168.1.109 - manager [18/Jun/2026:11:32:18 -0600] "PUT /css/style.css HTTP/1.1" 200 OK 1672
+192.168.1.179 - guest [18/Jun/2026:11:27:57 -0600] "DELETE /settings HTTP/1.1" 200 OK 1432
+192.168.1.250 - api_service [18/Jun/2026:11:19:48 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 1259
+192.168.1.186 - guest [18/Jun/2026:11:15:57 -0600] "DELETE /css/style.css HTTP/1.1" 200 OK 1140
+192.168.1.57 - sysadmin [18/Jun/2026:11:58:56 -0600] "PUT /images/logo.png HTTP/1.1" 200 OK 1743
+192.168.1.127 - root [18/Jun/2026:11:12:25 -0600] "PUT /settings HTTP/1.1" 200 OK 3196
+192.168.1.64 - test_user [18/Jun/2026:11:44:10 -0600] "POST /css/style.css HTTP/1.1" 404 Not Found 4726
+192.168.1.16 - developer [18/Jun/2026:11:38:53 -0600] "POST /api/v1/auth HTTP/1.1" 200 OK 385
+192.168.1.204 - operator [18/Jun/2026:11:42:48 -0600] "GET /api/v2/data HTTP/1.1" 404 Not Found 907
+192.168.1.194 - user123 [18/Jun/2026:11:21:59 -0600] "GET /settings HTTP/1.1" 403 Forbidden 1344
+192.168.1.76 - user123 [18/Jun/2026:11:13:31 -0600] "POST /settings HTTP/1.1" 200 OK 1519
+192.168.1.154 - admin [18/Jun/2026:11:19:40 -0600] "DELETE /logout HTTP/1.1" 404 Not Found 3079
+192.168.1.215 - developer [18/Jun/2026:11:48:50 -0600] "DELETE /js/main.js HTTP/1.1" 401 Unauthorized 2267
+192.168.1.51 - admin [18/Jun/2026:11:26:32 -0600] "POST /api/v2/data HTTP/1.1" 200 OK 1678
+192.168.1.56 - test_user [18/Jun/2026:11:28:42 -0600] "PUT /api/v2/data HTTP/1.1" 200 OK 2622
+192.168.1.185 - root [18/Jun/2026:11:27:51 -0600] "DELETE /index.html HTTP/1.1" 200 OK 3540
+192.168.1.210 - root [18/Jun/2026:11:56:35 -0600] "PUT /index.html HTTP/1.1" 200 OK 938
+192.168.1.20 - developer [18/Jun/2026:11:50:51 -0600] "GET /api/v2/data HTTP/1.1" 200 OK 3827
+192.168.1.231 - developer [18/Jun/2026:11:27:28 -0600] "GET /js/main.js HTTP/1.1" 200 OK 2820
